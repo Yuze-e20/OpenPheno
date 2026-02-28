@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "100_277",
+    "summary": "Cell-based assay in mouse embryonic fibroblasts (MEF285) evaluating KRAS synthetic lethality. Viability is measured by luminescence (CellTiter-Glo) after 48 hours. Goal: identify KRAS pathway vulnerabilities via synthetic lethal effects. Method: luminescent readout quantifies ATP to infer cell survival."
+  },
+  {
+    "id": "100_278",
+    "summary": "A cell-based assay probing KRAS synthetic lethality in Mus musculus mouse embryonic fibroblast (MEF331) cells. Viability is measured by CellTiter-Glo luminescence after 48 hours. The goal is to identify KRAS-linked synthetic lethal interactions or compounds that selectively reduce viability in KRAS-dependent contexts."
+  },
+  {
+    "id": "104_289",
+    "summary": "Cell assay profiling MODY patient-derived human cells targeting B0013 under basal conditions for 48 hours, using a resazurin fluor dye method with luminescence readout. Goal: quantify metabolic activity/viability and characterize the MODY cell phenotype via luminescent resazurin reduction signal."
+  },
+  {
+    "id": "104_291",
+    "summary": "Assay profiles human MODY patient-derived cells (strain B0018) targeting cellular metabolic activity/viability via resazurin reduction. Cells were maintained under basal conditions for 48 hours, and luminescence was measured. Goal: MODY patient cell profiling and baseline functional characterization using a resazurin dye cell assay with luminescent readout."
+  },
+  {
+    "id": "104_295",
+    "summary": "Human MODY patient-derived cells were assayed targeting B10036._Basal.24h for 24 hours using a resazurin fluor dye viability/metabolic method with luminescence readout. Goal: cell profiling to quantify metabolic activity/viability and characterize MODY-related phenotypes in patient samples."
+  },
+  {
+    "id": "104_297",
+    "summary": "Human MODY patient-derived cells (sample B11452) were profiled under basal conditions using a resazurin fluorogenic dye, cell-based assay with luminescent readout to quantify metabolic activity/viability after 24 hours; goal was cell profiling in the MODYPatientCellProfiling campaign targeting B11452 Basal 24h."
+  },
+  {
+    "id": "104_299",
+    "summary": "Human MODY patient-derived cells (sample B11493) were profiled under basal conditions for 24 hours to measure cellular viability/metabolic activity. A resazurin dye cell assay with luminescence readout was used to quantify signal. Goal: characterize patient-specific basal phenotypes in MODYCellProfiling."
+  },
+  {
+    "id": "104_300",
+    "summary": "Assay profiles human MODY patient-derived cells (sample B11493) under basal conditions for 48 h using a resazurin dye cell-based assay with luminescence readout, aiming to quantify metabolic activity/viability. Method: resazurin reduction measured as luminescent signal to characterize MODY patient cell phenotype."
+  },
+  {
+    "id": "104_319",
+    "summary": "Cell-based assay profiling MODY patient-derived human cells (Target/Strain B8008._Basal.24h) for 24 hours using resazurin dye to assess metabolic activity/viability, measured by luminescence. Goal: characterize MODY patient cell phenotypes under basal conditions via resazurin reduction signal at the 24 h timepoint."
+  },
+  {
+    "id": "104_323",
+    "summary": "Cell-based assay profiling human MODY patient-derived cells (Target/Strain B8107._Basal.24h) for 24 hours under basal conditions, using a resazurin dye method with luminescent readout to assess metabolic activity/viability. Goal: characterize MODY patient cell phenotype within MODYPatientCellProfiling."
+  },
+  {
+    "id": "104_325",
+    "summary": "Assay profiles MODY patient-derived human cells (strain B8392) using a resazurin fluorescent dye with luminescence readout to assess basal metabolic activity/viability after 24 hours. Method: cell-based measurement under basal conditions. Goal: characterize MODY cell phenotype via luminescent resazurin reduction."
+  },
+  {
+    "id": "104_326",
+    "summary": "Cell-based profiling of human MODY patient-derived cells (sample B8392) under basal conditions for 48 hours using a resazurin fluor dye assay with luminescence readout, aimed at assessing metabolic activity/viability as part of MODYPatientCellProfiling. Goal: characterize basal functional phenotype of this strain/target."
+  },
+  {
+    "id": "104_334",
+    "summary": "This cell-based assay profiles viability/metabolic activity in human MODY patient-derived cells (sample F1497) under basal conditions for 24 hours, using a resazurin dye protocol with luminescence readout. Goal: characterize patient-specific cellular phenotypes through MODYPatientCellProfiling."
+  },
+  {
+    "id": "105_339",
+    "summary": "Human MODY patient-derived cell line B0013 was profiled using a cell-based luminescent CellTiter-Glo assay to quantify ATP/viability under basal, untreated conditions for 48 hours. The goal was to characterize MODY patient cell phenotypes, with luminescence readout capturing metabolic/viability signals for comparative profiling."
+  },
+  {
+    "id": "105_341",
+    "summary": "Cell-based luminescence assay profiling human MODY patient-derived cells, targeting/strain B0014 under basal conditions for 48 hours, using CellTiter-Glo (CTG) readout. Goal: MODYPatientCellProfiling to quantify cell viability/metabolic activity via luminescent signal."
+  },
+  {
+    "id": "105_352",
+    "summary": "Biological target: cell viability/metabolic activity. Organism: human (Homo sapiens) MODY patient-derived cells. Method: cell-based luminescent CellTiter-Glo (CTG). Goal: MODY patient cell profiling. Sample B11452 under basal conditions for 48 hours, target/strain B11452._Basal.48h, luminescence readout."
+  },
+  {
+    "id": "105_355",
+    "summary": "Human MODY patient-derived cells (sample B11494) were profiled under basal conditions using a cell-based luminescent CellTiter-Glo assay to quantify ATP/viability at the 24-hour timepoint. Goal: characterize baseline metabolic viability; readout was luminescence intensity reflecting cellular ATP content."
+  },
+  {
+    "id": "105_360",
+    "summary": "This cell-based assay profiles Maturity-Onset Diabetes of the Young (MODY) patient-derived human cells (strain B1242) under basal, untreated conditions for 48 hours using a luminescent CellTiter-Glo (CTG) readout to quantify ATP-dependent luminescence as a proxy for cell viability/metabolic activity, aiming to characterize baseline cellular phenotypes."
+  },
+  {
+    "id": "105_361",
+    "summary": "This cell-based luminescence assay (Lumin.CTG) profiles MODY patient-derived human cells to assess basal phenotype. Target/strain B1243 under basal conditions was measured after 24 hours, using luminescence readout, aiming to characterize cellular status/viability in MODYPatientCellProfiling and support comparative profiling of patient cells."
+  },
+  {
+    "id": "105_362",
+    "summary": "Homo sapiens MODY patient-derived cells (sample B1243) were assessed by luminescent CellTiter-Glo (CTG) under basal conditions for 48 hours to quantify ATP-linked viability. Goal: profile MODY cellular phenotypes, capturing luminescence readouts in a cell assay for baseline metabolic state characterization."
+  },
+  {
+    "id": "105_369",
+    "summary": "Human MODY patient-derived cells (sample B1498) were profiled under basal conditions for 24 hours using the CellTiter-Glo (CTG) luminescent assay to quantify ATP-based viability. The goal was cell profiling in MODY, capturing luminescence readouts from a cell assay to assess basal metabolic state/viability signatures."
+  },
+  {
+    "id": "105_374",
+    "summary": "Human MODY patient cell profiling using a cell-based luminescence CellTiter-Glo assay, targeting sample B8008 under basal conditions for 48 hours (B8008._Basal.48h). Goal: assess cellular viability/metabolic activity for MODYPatientCellProfiling. Method: CTG luminescence readout on patient-derived cells."
+  },
+  {
+    "id": "105_375",
+    "summary": "Cell-based luminescence assay (CellTiter-Glo) profiling MODY patient-derived human cells (B8106) under basal conditions for 24 hours to quantify viability/metabolic activity; target condition 'B8106._Basal.24h'; method measures ATP via luminescence; goal is systematic MODY patient cell profiling."
+  },
+  {
+    "id": "105_377",
+    "summary": "Assay profiles human MODY patient-derived cells (sample B8107) under basal conditions for 24 hours using a luminescent CellTiter-Glo (CTG) readout to quantify ATP-based cell viability. This cell-based method aims to characterize baseline functional status and viability of MODY patient cells within a standardized profiling workflow."
+  },
+  {
+    "id": "105_378",
+    "summary": "Human MODY patient-derived cells (target: B8107, basal condition) were profiled using a cell-based luminescent CellTiter-Glo assay to quantify ATP/viability after 48 hours. The goal was to characterize baseline cellular viability/metabolic status in MODYPatientCellProfiling, using luminescence readout under untreated conditions."
+  },
+  {
+    "id": "105_382",
+    "summary": "Profiles human MODY patient-derived cells (sample B8393) under basal conditions for 48 hours using CellTiter-Glo luminescent readout to quantify cellular ATP/viability. Goal: assess cellular health in MODYPatientCellProfiling. Method: cell-based luminescence. Biological target: ATP/viability in B8393 basal state; organism: Homo sapiens."
+  },
+  {
+    "id": "105_385",
+    "summary": "Cell-based assay profiles human MODY patient-derived cells (F1122) under basal conditions for 24 hours. Using a luminescent CellTiter-Glo (CTG) readout to quantify intracellular ATP, it measures cellular viability/metabolic activity. Goal: characterize baseline phenotypes and cell health in MODY patient cells."
+  },
+  {
+    "id": "105_391",
+    "summary": "Cell-based luminescence (CellTiter-Glo) profiling of MODY patient-derived cells (sample F4422) under basal conditions for 24 h to quantify ATP-dependent viability/metabolic status. Organism: human. Goal: characterize baseline cellular phenotype of MODY cells. Readout: luminescence intensity proportional to ATP content."
+  },
+  {
+    "id": "106_392",
+    "summary": "Cell-based GFP fluorescence assay assessing inhibition of Mycobacterium tuberculosis strain BG1. The method monitors fluorescent protein signal in live cells to quantify bacterial growth/viability changes, aiming to evaluate inhibitory effects of test compounds against M. tuberculosis. Readout is fluorescence; no additional timepoint or dose details provided."
+  },
+  {
+    "id": "108_394",
+    "summary": "Cell-based Mycobacterium tuberculosis infection assay using murine macrophage line J774A.1 (ATCC TIB-67). Primary readout is luminescent CellTiter-Glo viability; GFP and DAPI fluorescence channels support imaging. Goal: assess macrophage cytotoxicity and infection status in the MTB–macrophage system."
+  },
+  {
+    "id": "109_395",
+    "summary": "Cell-based assay using TIB-67 macrophages infected with Mycobacterium tuberculosis (MTB), employing a lux reporter and luminescence readout (MTBMacrophage.Lumin.Lux-FF) to quantify intracellular bacterial burden. Goal is to assess anti-MTB activity in macrophages. Target/strain: TIB-67; MTB."
+  },
+  {
+    "id": "10_19",
+    "summary": "Bacterial assay assessing viability inhibition in the BCG.JP15 mycobacterial strain within a Mycobacterium tuberculosis context, using a fluorescent protein readout measured at 485/538 nm. Goal is to identify inhibitors by quantifying changes in fluorescence indicative of bacterial viability."
+  },
+  {
+    "id": "10_20",
+    "summary": "Assay measures viability inhibition of Mycobacterium tuberculosis, targeting strain MTB.puv3583c, using a bacterial fluorescent protein reporter. Fluorescence readout uses excitation at 485 nm and emission at 538 nm to quantify viability changes, aiming to assess antimicrobial efficacy via fluorescence-based bacterial viability suppression."
+  },
+  {
+    "id": "110_396",
+    "summary": "Cell-based assay measuring NOX (NADPH oxidase) signaling by quantifying superoxide generation in EBV-transformed lymphoblastoid cells after PMA stimulation, using Amplex Red fluorescence. Goal: assess NOX-driven reactive oxygen species production and enzyme activity in EBV lymphocytes via dye-based fluorescent readout."
+  },
+  {
+    "id": "110_397",
+    "summary": "Cell-based assay targeting NOX1 in human HEK293 cells quantifies NOX family signaling by measuring NOX1-driven superoxide generation using the Amplex Red fluorescent dye readout. Goal is to evaluate reactive oxygen species production and NOX1 activity in cultured cells via fluorescence detection; specific dosing or timepoints not provided."
+  },
+  {
+    "id": "110_398",
+    "summary": "Human HEK293 cells expressing NOX2 are assayed in a cell-based fluorescence format using the Amplex Red dye to monitor reactive oxygen species, quantifying NOX2-driven superoxide generation/NOX family signaling. The goal is to measure NOX2 activity; readout is fluorescence intensity reflecting ROS production."
+  },
+  {
+    "id": "110_399",
+    "summary": "Cell-based fluorescence assay in human HEK293 cells engineered to express NOX4 quantifies NOX family signaling by measuring NOX4-derived superoxide/ROS using Amplex Red dye. The goal is to assess superoxide generation attributable to NOX4 activity; fluorescence intensity serves as the readout to evaluate NOX4-dependent oxidase function."
+  },
+  {
+    "id": "110_400",
+    "summary": "Cell-based fluorescence assay in human HEK293 cells overexpressing NOX5 quantifies NOX family signaling via Amplex Red dye. The method measures reactive oxygen species/superoxide generation (as H2O2-derived fluorescence) to assess NOX5 activity. Goal: evaluate NOX5-dependent ROS production in living cells."
+  },
+  {
+    "id": "110_401",
+    "summary": "Cell-based assay assessing NOX family signaling in XanOx.Xanth strain, measuring superoxide-derived reactive oxygen species using Amplex Red fluorescence. The method uses the fluorogenic dye to detect NOX activity via hydrogen peroxide/resorufin signal. Goal is to quantify NOX-mediated superoxide generation in vitro."
+  },
+  {
+    "id": "111_402",
+    "summary": "Cell-based assay in human HEK293 cells expressing NOX4 measures NOX-family signaling via superoxide generation. Luminescent readout (CTG) captures signal at 24 hours to assess NOX4 activity, with the goal of quantifying reactive oxygen species production and cellular responses associated with NADPH oxidase 4."
+  },
+  {
+    "id": "112_406",
+    "summary": "Cell-based Lux reporter assay in human U2OS osteosarcoma cells measuring p53 (TP53)-dependent gene expression via CDIP promoter upon UV stimulation; luminescent readout quantifies transcriptional activation to assess p53 pathway activity."
+  },
+  {
+    "id": "113_407",
+    "summary": "Human U2OS osteosarcoma cells were used in a cell-based Lux reporter assay (RhoE promoter-Lux) to monitor TP53 (p53)-dependent transcription. The readout was LuxReporter luminescence. The goal was to quantify UV-induced TP53 pathway activation and p53-target gene expression changes in this model."
+  },
+  {
+    "id": "114_408",
+    "summary": "Cell-based assay quantifying PGC-1 expression in COS-7 cells (African green monkey, Cercopithecus aethiops) using a luminescent Lux reporter (Bright-Glo/Lux readout). The goal is to assess PGC-1 transcriptional regulation by measuring reporter signal intensity as a proxy for expression under experimental conditions."
+  },
+  {
+    "id": "115_409",
+    "summary": "Cell-based assay measuring PGC1 (PPARGC1A) mRNA expression in mouse 3T3-F442A adipocyte-lineage cells using SYBR Green quantitative PCR. Goal: quantify target gene transcription levels in this murine cell strain; method uses qPCR readouts (Ct) to assess relative expression."
+  },
+  {
+    "id": "116_411",
+    "summary": "Yeast assay (CHP1098.20000.1.0x5-FOA strain) screens phosphodiesterase regulators by measuring absorbance at 600 nm (OD600). Goal is to assess modulation of PDE activity/regulation in yeast via an absorbance-based readout, enabling identification of regulatory effects on the phosphodiesterase pathway."
+  },
+  {
+    "id": "116_412",
+    "summary": "Yeast assay targeting phosphodiesterase regulation, using strain CHP1113.02500.1.0x5-FOA. Readout is absorbance at 600 nm (OD600) to monitor growth/phenotypic response. Method screens PDERegulators to identify compounds or genetic factors modulating phosphodiesterase activity; goal is to profile PDE regulatory effects in yeast."
+  },
+  {
+    "id": "116_413",
+    "summary": "Yeast assay targeting phosphodiesterase regulation using strain CHP1122.10000.1.0x5-FOA, measuring growth by absorbance at 600 nm (OD600). Method: absorbance-based readout in yeast. Goal: identify or characterize PDE regulators affecting growth under 5-FOA selection."
+  },
+  {
+    "id": "116_414",
+    "summary": "Yeast assay targeting phosphodiesterase (PDE) regulation in strain CHP1126.10000.1.0x5-FOA, using absorbance at 600 nm (OD600) as the readout. The goal is to identify PDE regulators by quantifying yeast responses via OD600 in a PDE-focused screening."
+  },
+  {
+    "id": "116_415",
+    "summary": "Yeast assay employing strain CHP1128.10000.1.0x5-FOA targets phosphodiesterase (PDE) regulation, monitoring growth via absorbance at 600 nm (OD600). Method: absorbance-based readout; goal: identify and evaluate PDE regulators/modulators in the yeast strain context."
+  },
+  {
+    "id": "116_416",
+    "summary": "Yeast assay using strain CHP1132.07500.1.0x5-FOA evaluates phosphodiesterase (PDE) regulation under 5-fluoroorotic acid selection, measuring cell growth by absorbance at 600 nm (OD600). Goal: identify regulators of PDE activity via changes in optical density in a PDERegulators screen."
+  },
+  {
+    "id": "116_420",
+    "summary": "Assesses phosphodiesterase regulators in a yeast strain (CHP1155.03750.1.0x5-FOA) using an absorbance-based growth assay, measuring OD600 (600 nm). Goal is to quantify modulatory effects on PDE-linked phenotypes under 5-FOA selection via yeast viability/growth readout."
+  },
+  {
+    "id": "116_421",
+    "summary": "Yeast assay targeting phosphodiesterase regulation using strain CHP1156.10000.1.0x5-FOA. Method: absorbance-based measurement at 600 nm (OD600). Goal: evaluate modulators of phosphodiesterase activity by quantifying growth/response in yeast. Readout is absorbance; no explicit dosing or timepoints specified."
+  },
+  {
+    "id": "116_424",
+    "summary": "Yeast assay targeting phosphodiesterase regulation (PDERegulators) in strain CHP1186.07500.1.0x5-FOA. Method: absorbance measurement at 600 nm (OD600). Goal: screen regulators by quantifying growth or phenotype changes via absorbance, enabling identification of compounds affecting phosphodiesterase-related pathways in yeast."
+  },
+  {
+    "id": "116_425",
+    "summary": "Yeast-based assay targeting phosphodiesterase regulation uses strain CHP1189.05000.1.0x5-FOA. Absorbance at 600 nm (OD600) serves as the readout to quantify functional effects of regulators on phosphodiesterase activity. Goal: discover modulators of PDE in yeast."
+  },
+  {
+    "id": "116_426",
+    "summary": "Yeast assay evaluating phosphodiesterase (PDE) regulation using strain CHP932.05000.1.0x5-FOA. Goal: identify or characterize PDE regulators. Method: absorbance readout at 600 nm (OD600) in yeast; no specific duration, dosage, or timepoints reported."
+  },
+  {
+    "id": "116_427",
+    "summary": "Yeast assay screening phosphodiesterase regulators using strain LWP369.02500.1.0x5-FOA under 5-FOA selection. Absorbance readout at 600 nm (OD600) quantifies growth to infer PDE modulation. Goal: identify compounds or genetic perturbations affecting phosphodiesterase activity in yeast by measuring growth changes via absorbance."
+  },
+  {
+    "id": "117_429",
+    "summary": "Cell-based assay probing PI3K/mTOR pathway modulation in human glioblastoma U251 cells (Homo sapiens). Test compounds are assessed via fluorescence-based resazurin dye readout of metabolic activity/viability, aiming to identify glioblastoma modulators and delineate effects on PI3K/mTOR signaling."
+  },
+  {
+    "id": "117_430",
+    "summary": "Assay screens modulators of the PI3K/mTOR pathway in human glioblastoma U251 cells (U251.Rap) using a cell-based fluorescent resazurin dye viability readout. Goal: quantify effects of PI3K/mTOR modulation on glioblastoma cell metabolic activity and viability."
+  },
+  {
+    "id": "118_432",
+    "summary": "Assay targets phosphatidylinositol kinase (PI3K) signaling in Saccharomyces cerevisiae strain BY4742 under basal conditions for 72 hours, using absorbance at 600 nm (OD600). Goal is to quantify PI3K-linked phenotypic responses via optical density as a readout of yeast cell behavior."
+  },
+  {
+    "id": "118_434",
+    "summary": "Assay interrogates phosphatidylinositol kinase (PI3K) signaling in Saccharomyces cerevisiae strain BY4742 under oxidative stress, exposing cells to H2O2 for 72 hours. Luminescence readout (detection at 600 nm per assay naming) quantifies signaling changes; goal is to assess PI3K pathway responses in yeast."
+  },
+  {
+    "id": "11_21",
+    "summary": "Assay profiles bacterial viability of the DRC39.deltaAcrAB strain (AcrAB efflux pump knockout) in a bacterial system using the BactTiter-Glo luminescent ATP readout. Method quantifies viability to characterize the organism’s response, enabling bacterial viability profiling; no specific doses, durations, or timepoints are provided."
+  },
+  {
+    "id": "11_22",
+    "summary": "Assay profiles viability of Staphylococcus aureus strain SaureusR (bacterial target) using the BactTiter-Glo luminescent ATP-based readout. Method: bacterial viability profiling by measuring luminescence proportional to live-cell ATP. Goal: quantify and compare bacterial survival and assess effects of treatments on S. aureus viability."
+  },
+  {
+    "id": "12_23",
+    "summary": "Cell-based assay monitoring beta-catenin signaling in human HTB-96 cells engineered with bCAT-EGFP, using fluorescence readout. Method quantifies differences in fluorescent dye uptake versus efflux (InOutDiff) to assess beta-catenin pathway activity. Goal is to evaluate signaling alterations via EGFP-tagged beta-catenin reporter in cultured cells."
+  },
+  {
+    "id": "133_474",
+    "summary": "Cell-based autophagy assay in human LN229 glioblastoma cells using fluorescent LC3 reporter to quantify autophagosome vesicle average area. Readout is cell count. Goal is to assess protein degradation/autophagy dynamics via LC3, linking vesicle morphology to degradation activity in a cellular context."
+  },
+  {
+    "id": "134_476",
+    "summary": "Cell-based assay in human H1299 lung carcinoma cells quantifying autophagy-driven protein degradation by fluorescent protein readout of LC3 vesicle average intensity (LC3-VesAvgInt). Target: LC3. Organism: Homo sapiens. Method: fluorescence-based measurement; goal: evaluate autophagic flux in H1299 cells."
+  },
+  {
+    "id": "134_477",
+    "summary": "Cell-based autophagy assay in human glioblastoma LN229 cells targeting LC3. Fluorescence readout quantifies LC3 vesicle average intensity (LC3-VesAvgInt) to assess protein degradation/autophagic flux. Goal: evaluate autophagy-related protein turnover by monitoring LC3 fluorescent puncta intensity per vesicle in live cells."
+  },
+  {
+    "id": "135_479",
+    "summary": "Cell-based autophagy assay in human H1299 (Homo sapiens) cells targeting LC3-positive autophagosomes using a fluorescent reporter. Fluorescence readout quantifies LC3 vesicle count to assess protein degradation via autophagic flux. Goal: measure autophagy activity and proteolysis in H1299 cells under assay conditions."
+  },
+  {
+    "id": "13_24",
+    "summary": "This cell-based assay measures beta-catenin signaling in human HTB-96 cells expressing bCAT-EGFP using fluorescence, computing an in/out ratio of EGFP signal across cellular compartments. Goal: evaluate beta-catenin pathway activation/modulation via changes in beta-catenin localization."
+  },
+  {
+    "id": "143_495",
+    "summary": "Biochemical assay evaluating inhibition of PTK2 (FAK) kinase using a KinGlo luminescence readout. Target designated PTK2.polyK4345. Luminescence quantifies kinase activity to assess compound-mediated PTK2 inhibition. Organism not specified. No dosing, duration, or timepoints provided; endpoint driven by KinGlo luminescent signal."
+  },
+  {
+    "id": "145_497",
+    "summary": "Cell-based assay in human HEK293 (Splice+/−) cells using a LuxReporter to monitor spliceosome activity. Designed to assess spliceosome inhibition/regulation, measuring luminescence changes after a 20-minute incubation/exposure. Goal is quantifying modulation of splicing machinery under specified conditions."
+  },
+  {
+    "id": "14_25",
+    "summary": "Assay evaluates beta-catenin signaling in Homo sapiens U-2 OS (ATCC HTB-96) cells engineered with bCAT-EGFP reporter. Cell-based fluorescence readout quantifies percent GFP-positive cells using fluorescent dye, aiming to assess Wnt/β-catenin pathway activation. Goal: measure modulation of β-catenin signaling."
+  },
+  {
+    "id": "153_510",
+    "summary": "Cell-based assay targeting mouse embryonic stem cells (mES) employs immunofluorescence-based cell counting to quantify differentiation-associated fluorescence signals. The goal is to assess stem cell differentiation in a chemical biology framework. Fluorescence readout reports marker expression intensity per cell; no duration or dosage parameters specified."
+  },
+  {
+    "id": "154_511",
+    "summary": "This cell-based assay investigates stem cell differentiation in the human embryonic stem cell line HuES8 (Homo sapiens) using DAPI-based immunofluorescence microscopy. Fluorescence readouts of nuclear DNA staining quantify cellular status, aiming to evaluate differentiation-related phenotypes under stem cell chemical biology conditions."
+  },
+  {
+    "id": "15_26",
+    "summary": "Cell-based fluorescence assay measuring beta-catenin signaling in human U-2 OS (ATCC HTB-96) cells expressing a bCAT-EGFP reporter. Fluorescent dye readout quantifies positive cells and channel-2 intensity (PosCellsW2_Int), aiming to assess pathway activation or inhibition in response to treatments."
+  },
+  {
+    "id": "160_519",
+    "summary": "Biochemical absorbance assay targeting trypanothione reductase (TrypRed) from an unspecified organism, measuring enzyme activity at 355 nm. The method records absorbance changes to assess TR catalytic function; goal is to quantify activity or modulation. No dosage, duration, or timepoints specified."
+  },
+  {
+    "id": "167_538",
+    "summary": "Assay monitors AI-2 mediated quorum sensing in Vibrio bacterial strain JMH610.AI2 using a fluorescent protein reporter. Fluorescence is recorded at excitation/emission 485/535 nm. Goal is to quantify quorum-sensing activity via reporter signal intensity in bacteria; specific dosages or timepoints are not provided."
+  },
+  {
+    "id": "167_539",
+    "summary": "Evaluates AI-1-dependent quorum-sensing in Vibrio bacteria using reporter strain JMH624.AI1. Method: fluorescent protein measurement at 485/535 nm to quantify signaling activity. Goal: determine activation or inhibition of the quorum-sensing pathway via FluorProtein readout in a bacterial assay, capturing pathway response under tested conditions."
+  },
+  {
+    "id": "168_541",
+    "summary": "Assay VibrioQuorumSensing.Lumin.545 evaluates Vibrio quorum-sensing using bacterial strain BB721, measuring luminescence as the readout. The method is a luminometric bacterial assay to quantify quorum-sensing activity, aiming to characterize or screen modulators of Vibrio communication pathways. No explicit dosage or timepoint parameters are provided."
+  },
+  {
+    "id": "168_542",
+    "summary": "Bacterial quorum-sensing assay targeting AI-2 signaling in Vibrio strain JMH610.AI2. Luminescence-based method quantifies autoinducer-2–mediated response by measuring luminescence output. Goal: evaluate AI-2–dependent quorum activity in this Vibrio system using a luminescence readout."
+  },
+  {
+    "id": "168_543",
+    "summary": "Bacterial luminescence assay in Vibrio species targeting the JMH624.AI1 strain to monitor quorum-sensing activity. Method: luminescence readout. Goal: evaluate quorum-sensing signaling/modulation in Vibrio; no explicit quantitative conditions (duration, dosage, timepoints) are provided."
+  },
+  {
+    "id": "169_544",
+    "summary": "Cell-based dual-luciferase luminescence assay (Lux-Duo) in mouse HT22 hippocampal neuronal cells evaluates Wnt signaling modulation under lithium chloride treatment. The goal is to quantify pathway activation by lithium and other Wnt modulators, using luminescent reporter readouts to assess changes in Wnt/β-catenin signaling activity."
+  },
+  {
+    "id": "169_545",
+    "summary": "Assay tests Wnt signaling modulation in HT22.LiCl- mouse hippocampal neuron cells using Lux-Duo luminescent reporter. Goal is to quantify effects of Wnt and lithium modulators on pathway activity via dual-luciferase readout."
+  },
+  {
+    "id": "169_548",
+    "summary": "Cell-based luminescence assay assessing Wnt signaling activity in human RKO colorectal carcinoma cells (Homo sapiens) using a Lux-Duo dual-reporter. The goal is to evaluate effects of lithium-related modulators; here LiCl- denotes no lithium chloride treatment baseline, with luminescent readout quantifying pathway activation."
+  },
+  {
+    "id": "169_549",
+    "summary": "Cell-based dual-luciferase luminescence assay (Lux-Duo) in human RKO colorectal carcinoma cells (RKO.WntCond) measuring Wnt pathway activity. Goal: quantify modulation of Wnt signaling by lithium and related modulators. Readout is luminescence; no explicit dosages or timepoints provided in the metadata."
+  },
+  {
+    "id": "16_27",
+    "summary": "Cell-based assay measuring beta-catenin signaling in human U-2 OS (ATCC HTB-96) cells engineered with bCAT-EGFP. Fluorescence readout quantifies nuclear EGFP intensity (PosNucW2_Int) to assess beta-catenin activation and nuclear translocation. Goal: evaluate pathway modulation in this human osteosarcoma line."
+  },
+  {
+    "id": "170_550",
+    "summary": "Cell-based luminescence reporter assay evaluating Wnt pathway inhibition in human DLD1.4TO.pcDNA colorectal carcinoma cells, using LuxReporter with dual luciferase (Firefly/Renilla) via luminometry. Goal: quantify effects of Wnt inhibitors on reporter activity relative to control, profiling Wnt signaling modulation."
+  },
+  {
+    "id": "170_551",
+    "summary": "Assay evaluates Wnt signaling inhibition in the human DLD1.ToptK.FoptK colorectal cancer cell line using a cell-based dual firefly/renilla LuxReporter luminescence readout. Goal is to quantify pathway suppression by candidate Wnt inhibitors in vitro, comparing normalized firefly and renilla signals; specific dosing and timepoints not provided."
+  },
+  {
+    "id": "174_555",
+    "summary": "Assay evaluates anti-infective activity against strain AU18.MMH594 in a worm model using the Sytox fluorescent dye. Organism: nematode (worm). Method: fluorescence readout quantifies pathogen-induced cell death/viability. Goal: measure pathogenesis and protective effects of treatments; no specific timepoints or dosages provided."
+  },
+  {
+    "id": "175_559",
+    "summary": "Cell-based assay screening growth modifiers in Saccharomyces cerevisiae strain BY4716 under basal conditions. Yeast growth measured by absorbance at 600 nm (OD600) after 48 hours. Goal: identify inhibitors or enhancers of growth using optical density readout."
+  },
+  {
+    "id": "175_561",
+    "summary": "Assay screens for yeast growth modifiers using Saccharomyces cerevisiae strain BY4716 under the 'Sert14' condition, cultured for 48 hours. Growth is quantified by absorbance at 600 nm (OD600). Goal: detect growth inhibition or enhancement in a YeastGrowthModifierScreen, enabling identification of factors affecting proliferation."
+  },
+  {
+    "id": "177_585",
+    "summary": "Cell-based qPCR assay targeting YB-1 to evaluate transcription inhibition in cdip cp strain/cells. Goal is to quantify changes in target gene transcripts under inhibitory conditions in a cellular context. Organism unspecified; method uses quantitative PCR readout to measure transcriptional repression relative to controls."
+  },
+  {
+    "id": "178_591",
+    "summary": "Cell-based assay evaluating MITF suppression, using qPCR readout to quantify MITF transcript levels. Organism not specified; target/strain labeled observation_1. Goal is to assess downregulation of MITF in cultured cells. No dosage, timepoints, or durations reported; experimental conditions beyond qPCR quantitation are unspecified."
+  },
+  {
+    "id": "178_684",
+    "summary": "Cell-based assay evaluating Microphthalmia-associated transcription factor (MITF) suppression using a luminescent reporter readout. Organism not specified. The method quantifies changes in luminescence to assess MITF activity reduction, aiming to characterize compound or perturbation effects on MITF-dependent transcription."
+  },
+  {
+    "id": "179_659",
+    "summary": "Assesses antifungal drug resistance by measuring Candida albicans growth of target/strain 'Layer 1' in vitro without fluconazole. Fungal culture-based assay monitors proliferation to establish baseline growth in the absence of azole pressure, aiming to characterize resistance phenotypes; readout is growth extent (unspecified)."
+  },
+  {
+    "id": "17_28",
+    "summary": "Cell-based assay in HTB-96.bCAT-EGFP human cells quantifying beta-catenin signaling via fluorescence. An EGFP-tagged beta-catenin reporter provides the readout as fluorescent intensity. Goal is to monitor pathway activation or inhibition; metadata indicates FluorDye positive well (PosW2)."
+  },
+  {
+    "id": "180_686",
+    "summary": "Assay evaluates antifungal drug resistance in Candida albicans strain 'Layer 1' by monitoring growth under fluconazole exposure using a fluorescent readout. Fungal assay method quantifies fluorescence to assess viability/proliferation; goal is to determine resistance phenotype to fluconazole in C. albicans."
+  },
+  {
+    "id": "181_599",
+    "summary": "A cell-based tuberculosis macrophage fluorescence assay measuring the biological target count_nuclei_mean (mean nuclei per field) in macrophage host cells (organism unspecified) using fluorescence imaging. Method supports chemical genetics screening, with the goal of quantifying compound-induced effects on cell viability/cytotoxicity and infection-related phenotypes."
+  },
+  {
+    "id": "181_600",
+    "summary": "This bacterial assay targets the fluorescence ratio in Mycobacterium tuberculosis within macrophages, using a fluorescence readout to quantify intracellular bacterial response. The method is chemical genetics, aiming to identify perturbations affecting M. tuberculosis in host cells by measuring fluorescence ratios indicative of bacterial load or viability."
+  },
+  {
+    "id": "183_604",
+    "summary": "The cell-based TCellExhaustion assay probes the biological target of T-cell exhaustion in an unspecified organism, using a luminescence readout. Method: luminescence detection in cultured cells. Goal: quantify or screen modulators of T-cell exhaustion. No dosage, duration, or timepoints were provided."
+  },
+  {
+    "id": "184_606",
+    "summary": "Cell-based assay targeting STK33 in strain observation_0 cells (organism unspecified) using NOMO CTG viability protocol. Luminescent readout (ATP quantification via CellTiter-Glo) measures cell viability to evaluate STK33-associated effects. Goal: assess cytotoxicity/viability changes; specific dose and timepoints not provided."
+  },
+  {
+    "id": "185_665",
+    "summary": "This biochemical qPCR assay (MLPCN maternal gene expression) investigates MEX3-seq14 binding effects on maternal transcripts in an unspecified organism. The biological target is P Channel. Goal: quantify gene expression changes associated with MEX3-binding to sequence 14, providing molecular readouts of maternal regulation."
+  },
+  {
+    "id": "185_666",
+    "summary": "Biochemical MLPCN maternal gene expression assay using qPCR to quantify transcript levels, evaluating MEX3-seq14 binding effects with focus on an S Channel target. Organism not specified. Goal: measure binding-associated expression changes. No specific timepoints, dosages, or durations are reported."
+  },
+  {
+    "id": "185_667",
+    "summary": "A biochemical MLPCN maternal gene expression fluorescence assay quantifies MEX3-seq14 binding using a FITC-labeled fluorescent probe (FITC FP). Organism unspecified. Method: fluorescence readout to measure RNA–protein interaction. Goal: characterize MEX3 affinity and specificity for sequence 14 in maternal gene regulation."
+  },
+  {
+    "id": "186_668",
+    "summary": "This cell-based fluorescence assay quantifies mitochondrial abundance in cultured cells (organism not specified) by measuring fluorescence intensity, targeting cellular mitochondria and integrating cell counts (Target/Strain: Count_Cells) to normalize signal. The goal is to assess mitochondrial content per cell using a quantitative fluorescence readout."
+  },
+  {
+    "id": "186_669",
+    "summary": "A cell-based fluorescence assay quantifying mitochondrial abundance, targeting mitochondrial intensity normalized to cell area (MitoIntensity/CellArea) in cultured cells (organism unspecified). Method: fluorescence imaging/quantification. Goal: assess mitochondrial content per cell. No treatment, dosage, or timepoint details provided; duration unspecified."
+  },
+  {
+    "id": "187_618",
+    "summary": "Biochemical in vitro assay measuring STK33 kinase activity using ADP-Glo luminescence. Organism not specified. Method quantifies ADP production to assess enzyme activity and potential inhibition. Goal: characterize STK33 catalytic function and inhibitor potency; no duration, dosage, or specific timepoints provided."
+  },
+  {
+    "id": "187_619",
+    "summary": "Cell-based assay assessing STK33 serine/threonine kinase activity using ADP-Glo (configuration adp-glo:1); organism not specified. Luminescence readout quantifies ADP generated from ATP consumption to evaluate enzyme activity and inhibitor effects. No explicit dosing, incubation durations, or timepoints were provided."
+  },
+  {
+    "id": "18_29",
+    "summary": "Human U2OS (ATCC HTB-96) bCAT-EGFP cells were used to quantify beta-catenin signaling via fluorescence. An EGFP-tagged beta-catenin reporter and a fluorescent nuclear dye measured total nuclei, enabling normalization. Cell-based assay readout was fluorescence to assess pathway activation."
+  },
+  {
+    "id": "190_628",
+    "summary": "This cell-based BAFComplex (esBAF) assay targets cytoplasmic actin (actin cp) in an unspecified organism, using qPCR to quantify gene expression. The goal is to assess esBAF-driven regulation of actin cp transcripts in cells."
+  },
+  {
+    "id": "190_629",
+    "summary": "Cell-based assay profiling the esBAF (embryonic stem cell BAF) chromatin-remodeling complex with emphasis on BMI1 (Polycomb protein) 'bmi1 cp' target in unspecified organism cells. Quantitative PCR readout used to measure transcript levels, aiming to assess esBAF/BMI1-associated gene expression changes. No dosage, timepoints, or treatment conditions specified."
+  },
+  {
+    "id": "190_674",
+    "summary": "Cell-based assay examining esBAF (BAF complex) in embryonic stem cells. Target is Bmi1 expression normalized to Actin using the ΔΔCp qPCR method. Goal is to quantify relative Bmi1 transcription to assess esBAF/BAFComplex-associated regulation. No specific dosage, timepoints, or treatment conditions provided."
+  },
+  {
+    "id": "191_630",
+    "summary": "Biochemical fluorescence assay screening for RanGTP inhibitors using CFP-tagged Ran (cfp_ran). Organism unspecified. Method: primary screening measuring fluorescence readout to detect inhibition of Ran GTPase activity. Goal: identify small-molecule inhibitors; specific dosages, durations, and timepoints are not provided."
+  },
+  {
+    "id": "191_631",
+    "summary": "Biochem primary screening assay MLPCNRanGTPinhibitor targets YFP-tagged importin beta (yfp_importin_beta) in an organism not specified. Fluorescence readout assesses effects on the importin beta–RanGTP interaction to identify inhibitors. No explicit durations, dosages, or timepoints were provided."
+  },
+  {
+    "id": "191_675",
+    "summary": "MLPCN biochemical primary screening targeting RanGTP (Ran GTPase) with fluorescence readout; organism unspecified. Target/Strain recorded as Layer 3. Method detects changes in fluorescence to assess RanGTP activity in vitro. Goal: identify small-molecule inhibitors that reduce signals consistent with decreased GTP-bound Ran function."
+  },
+  {
+    "id": "192_635",
+    "summary": "Cell-based assay evaluating beta-cell apoptosis in rat INS-1E insulinoma cells using Caspase-Glo luminescent detection of caspase activity. Goal is to quantify apoptotic signaling in pancreatic beta cells; readout is luminescence proportional to caspase activation for screening purposes."
+  },
+  {
+    "id": "193_723",
+    "summary": "Cell-based luminescence assay BetaCellApoptosisScreen (Beta.Cell.Apop.Cell.Titer) targets beta-cell apoptosis in a target/strain designated Layer 1 using cells from an unspecified organism. Method: luminescent readout to quantify apoptosis/viability. Goal: screen and measure beta-cell apoptotic responses; specific dosages and timepoints are not provided."
+  },
+  {
+    "id": "194_639",
+    "summary": "Biochemical high-throughput assay targeting glycogen synthase kinase-3β (GSK3β) from unspecified organism, using in vitro luminescent readout in 1536-well white plates (GSK3β walkup). The goal is to quantify enzyme activity and identify small-molecule modulators/inhibitors based on luminescence signal changes."
+  },
+  {
+    "id": "194_678",
+    "summary": "Biochemical assay targeting glycogen synthase kinase 3 beta (GSK3β), organism unspecified, performed in a 1536-well Walkup format using luminescence readout to quantify enzyme activity/inhibition. The goal is to identify modulators of GSK3β. Layer 1 configuration noted; no dosage, timepoints, or duration details provided."
+  },
+  {
+    "id": "195_642",
+    "summary": "Primary biochemical screen using a GFP-tagged RecA construct to monitor Mycobacterium tuberculosis RecA intein activity via fluorescence in 1536-well plates. The biological target is the M. tuberculosis RecA intein; method is fluorescence readout; goal is to discover small-molecule modulators/inhibitors of intein-mediated processing."
+  },
+  {
+    "id": "196_644",
+    "summary": "Biochemical in vitro ADP-Glo kinase assay (MLPCNSTK33invitro) targeting STK33; organism unspecified. Luminescence readout measures ADP formation to quantify kinase activity and inhibitor potency. Goal: evaluate STK33 inhibition/activity using ADP-Glo luminescent detection under defined in vitro conditions."
+  },
+  {
+    "id": "197_645",
+    "summary": "Biochemical fluorescence assay targeting LSD1 in organism unspecified, using a formaldehyde-coupled, competitive format (competitive:1) for broad screening of compounds. Fluorescence readout quantifies LSD1 enzymatic activity or inhibition. No durations, dosages, or other timepoints are specified in the metadata."
+  },
+  {
+    "id": "197_646",
+    "summary": "A biochemical competitive fluorescence assay targeting LSD1 (lysine-specific demethylase 1), organism unspecified, using a formaldehyde-coupled broad-screen format. Readout is fluorescence in a competitive format (competitive:2). Goal: quantify enzyme activity and screen for inhibitors/modulators of LSD1 under defined biochemical conditions."
+  },
+  {
+    "id": "197_647",
+    "summary": "Biochemical screen targeting LSD1 (lysine-specific demethylase 1) using a formaldehyde-coupled fluorescence assay (emission channel 1) to measure enzyme activity. Organism not specified (in vitro recombinant protein). Goal: broad screening for modulators/inhibitors. Readout: fluorescence intensity; assay described as Formaldehyde-Coupled Broad Screen."
+  },
+  {
+    "id": "197_648",
+    "summary": "Biochemical fluorescence assay targeting LSD1 (lysine-specific demethylase 1; organism not specified), using a formaldehyde-coupled broad screening format with fluorescence readout at emission channel 2. Goal: screen compounds or conditions affecting LSD1 catalytic activity. No dosage, timepoints, or duration details provided."
+  },
+  {
+    "id": "197_649",
+    "summary": "Biochemical fluorescence assay targeting LSD1 histone demethylase in unspecified organism, using a formaldehyde-coupled broad screening method with emission channel 1. Goal: quantify LSD1 enzymatic activity and identify modulators by measuring formaldehyde-derived fluorescence signal; assay type biochem; readout fluorescence."
+  },
+  {
+    "id": "197_650",
+    "summary": "Biochemical fluorescence assay measuring lysine-specific demethylase 1 (LSD1) activity via formaldehyde-coupled detection in a broad-screen format; organism unspecified. Readout captured at emission channel 2. Goal: identify modulators or inhibitors of LSD1 enzymatic activity. Specific durations or dosages not provided."
+  },
+  {
+    "id": "197_651",
+    "summary": "Biochemical assay targeting LSD1 (KDM1A), lysine-specific demethylase 1; organism not specified. Formaldehyde-coupled fluorescence readout quantifies demethylation activity. Broad screening to identify small-molecule modulators/inhibitors by measuring changes in fluorescent signal versus control; specific timepoints and dosages not reported."
+  },
+  {
+    "id": "198_682",
+    "summary": "High-throughput primary cell-based assay targeting pancreatic beta-cell apoptosis (organism not specified). Using luminescent CellTiter-Glo readout (ATP-based viability), the method screens compounds in Layer 1 to quantify apoptosis-mediated viability loss, aiming to identify modulators/inhibitors of beta-cell death. Specific timepoints or dosages were not reported."
+  },
+  {
+    "id": "199_657",
+    "summary": "Biochemical fluorescence assay targeting histone deacetylase 3 (HDAC3); organism unspecified. Fluorescence readout quantifies HDAC3 enzymatic activity in vitro. Method uses a fluorescence-responsive substrate to measure deacetylase function; no specific timepoints, dosages, or durations are provided in metadata."
+  },
+  {
+    "id": "19_30",
+    "summary": "Cell-based fluorescence assay in human U-2 OS (ATCC HTB-96) bCAT-EGFP reporter cells, targeting beta-catenin signaling. Method: fluorescent dye/EGFP detection to quantify total positive cells. Goal: measure activation of beta-catenin pathway by counting fluorescently labeled cells in the engineered strain."
+  },
+  {
+    "id": "1_1",
+    "summary": "This bacterial assay in Escherichia coli BL21(DE3) measures amyloid-beta 42 (Aβ42) amyloid formation by absorbance readout to evaluate ABAggregationInhibitors, aiming to identify compounds that inhibit Aβ42 aggregation in the BL21-DE3 strain."
+  },
+  {
+    "id": "200_658",
+    "summary": "Cell-based LSC cobblestone growth assay in an unspecified organism, targeting CobbCellArea. Method: fluorescence readout quantifying cell area within cobblestone morphologies. Goal: measure cobblestone growth and area changes to assess cellular behavior or niche formation. No duration, dosage, or timepoints are specified in the metadata."
+  },
+  {
+    "id": "201_660",
+    "summary": "A1 Apoptosis cell-based assay in mouse embryonic fibroblasts (MEFs) evaluating BIM-driven caspase activation to quantify apoptosis. Target described as Layer 1; method monitors caspase activation in cells. Goal is to characterize BIM-induced apoptotic signaling in MEFs; no dosage or timepoints specified."
+  },
+  {
+    "id": "202_661",
+    "summary": "Cell-based MLPCN Layer 1 screen assessing Ras pathway selective lethality in BJeLR cells via luminescence viability readout. Biological target: Ras-dependent survival. Organism: not specified. Goal: identify compounds reducing BJeLR viability; no quantitative durations or dosages reported in metadata."
+  },
+  {
+    "id": "203_662",
+    "summary": "Yeast-based MLPCN polyadenylation assay evaluates modulators of the mRNA polyadenylation pathway using a beta-galactosidase reporter. Organism: yeast. Method: luminescent galactosidase readout quantifies reporter expression linked to polyadenylation status. Goal: identify and characterize pathway perturbations via changes in luminescence."
+  },
+  {
+    "id": "204_663",
+    "summary": "Cell-based MLPCN assay evaluating platelet activation via dense granule release in Layer 1 target/strain, using luminescence readout in unspecified organism. Method quantifies secretory granule exocytosis to assess activation state, aiming to monitor and screen modulators affecting platelet granule release under assay conditions."
+  },
+  {
+    "id": "205_664",
+    "summary": "Assay screens for inhibitors of Trypanosoma cruzi using a beta-galactosidase (beta-gal) reporter luminescence readout. Biological target is parasite viability/replication, quantified by luminescence. Annotated as a bacterial assay (MLPCN), it aims to identify compounds that inhibit T. cruzi growth/activity."
+  },
+  {
+    "id": "206_670",
+    "summary": "Biochemical fluorescence assay targeting the Ras converting enzyme (CaaX protease, RCE1) in an unspecified organism. Method monitors enzyme activity via fluorescence, quantified as the change between 60 and 1 minutes (T60–T1). Goal: MLPCN screening for small-molecule inhibitors/modulators of RCE1."
+  },
+  {
+    "id": "206_671",
+    "summary": "Biochemical fluorescence assay targeting Ras converting enzyme (CaaX protease) from unspecified organism, using an ABZ-labeled peptide substrate to monitor proteolysis. Readout is ABZ fluorescence intensity at timepoint T60, aimed to quantify enzyme activity for compound screening and characterization of CaaX protease function."
+  },
+  {
+    "id": "207_672",
+    "summary": "MLPCN Quorum-Sensing JMH597 high-throughput screen in a bacterial system (strain observation_2) using a luminescence readout to monitor quorum-sensing pathway activity. The goal is to identify small-molecule modulators of bacterial quorum-sensing, with luminescence changes serving as the primary endpoint in HTS format."
+  },
+  {
+    "id": "208_673",
+    "summary": "MLPCN Antifungal primary assay targeting fungal organism strain 'Layer 1' uses fluorescence readout to quantify antifungal activity. Method: primary screening of compounds against fungi; no specific duration or dosage reported. Goal: identify hits that inhibit fungal growth/viability in a fluorescence-based fungal assay."
+  },
+  {
+    "id": "209_676",
+    "summary": "Biochemical primary screen targeting JMJD2C (GASC-1) using DELFIA fluorescence readout to identify inhibitors or modulators. Conducted under MLPCN GASC-1; organism unspecified. Method: dissociation-enhanced lanthanide fluorescence immunoassay (DELFIA). Goal: quantify enzymatic activity shifts via fluorescence intensity in a high-throughput format."
+  },
+  {
+    "id": "210_677",
+    "summary": "Cell-based apoptosis screen in mouse embryonic fibroblasts (MEF) engineered with A1-2A-BIM, targeting executioner caspases via Caspase-Glo. Method measures luminescence proportional to caspase-3/7 activation. Goal: quantify and screen for modulators of apoptosis in the A1/BIM context. Readout: luminescence."
+  },
+  {
+    "id": "212_680",
+    "summary": "Biochemical fluorescence polarization (FP) assay screening MLPCN library against KSHV LANA (LANA 1-23 peptide) in vitro, fluorescence readout, target layer: Layer 1, aiming to discover small-molecule modulators of LANA binding. Organism: Kaposi’s sarcoma-associated herpesvirus. No duration, dosage, or timepoints specified."
+  },
+  {
+    "id": "213_681",
+    "summary": "Yeast-based HTS employed a temperature-sensitive SUMO mutant Mot1 to identify SUMO inhibitors. Organism: yeast; method: luminescence growth readout. The goal was to detect compounds that reverse temperature-sensitive growth inhibition via SUMO pathway blockade, quantified by luminescence signals under temperature-stress conditions."
+  },
+  {
+    "id": "214_683",
+    "summary": "Biochemical primary screen targeting glycogen synthase kinase 3 alpha (GSK3α) in an unspecified organism, conducted by MLPCN using luminescence readout in 1536-well white plates. Goal: identify small-molecule modulators or inhibitors of GSK3α activity. No timepoints, dosages, or durations specified."
+  },
+  {
+    "id": "215_685",
+    "summary": "Cell-based luciferase reporter assay evaluates p53 mutant effects on transcription using the luciferase gene as target in cultured cells (organism not specified). Method: luminescence readout of luciferase activity. Goal: quantify mutant p53-driven regulation. Specific durations, dosages, and timepoints were not provided."
+  },
+  {
+    "id": "216_687",
+    "summary": "Biochemical high-throughput screen and retest targeting cyclin-dependent kinase 5 (CDK5) using luminescence readout in 1536‑well white plates. Organism unspecified. Method: MLPCN assay detects CDK5 activity modulation. Goal: identify and confirm small-molecule inhibitors or activators by primary screening followed by retesting for hit validation."
+  },
+  {
+    "id": "217_688",
+    "summary": "Screen to assess streptokinase expression in a bacterial system (strain: Layer 1) using a luminescence reporter. The goal is to identify modulators of streptokinase levels. Method: high-throughput MLPCN screening measuring luminescent signal as a proxy for expression; no specific dosage, duration, or timepoints provided."
+  },
+  {
+    "id": "217_689",
+    "summary": "MLPCN Streptokinase expression bacterial screen quantifies streptokinase expression using a luminescence readout in bacteria, screening test compounds for modulation. Biological target: streptokinase expression; organism: bacteria; method: luminescence assay; goal: discover modulators regulating streptokinase. No specific durations, dosages, or timepoints reported."
+  },
+  {
+    "id": "219_691",
+    "summary": "Biochemical fluorescence primary assay screening yeast (Saccharomyces cerevisiae) Rtt109/Vps75 histone acetyltransferase activity using an H3 1–20 peptide substrate. Readout employed FL380/510 excitation/emission (380/510 nm). Goal: identify small-molecule modulators by quantifying activity changes versus controls in the MLPCN RTT109 program."
+  },
+  {
+    "id": "21_32",
+    "summary": "This cell-based assay uses the mouse (Mus musculus) pancreatic beta-cell line Beta-TC-3 (ATCC CRL-2350) to quantify total nuclei via fluorescent dye readout. The goal is to monitor beta-cell transdifferentiation/differentiation outcomes by assessing cell number and viability as a proxy for cellular response across experimental conditions."
+  },
+  {
+    "id": "220_692",
+    "summary": "Biochemical coupled fluorescence assay targeting isocitrate dehydrogenase IDH1/IDH2, organism unspecified, performed as a 1536‑well primary screen. Method: fluorescence readout detects enzymatic activity. Goal: identify modulators/inhibitors of IDH1/IDH2. No dosage, timepoints, or incubation durations reported."
+  },
+  {
+    "id": "221_693",
+    "summary": "Cell-based luminescence assay in mouse C2C12 myoblasts assessing statin-induced myotoxicity. Biological target: luminescence signal as viability/toxicity readout; organism: Mus musculus-derived C2C12 cells. Method: primary cell assay measuring luminescence. Goal: quantify myotoxic effects of statins on C2C12 cells."
+  },
+  {
+    "id": "223_695",
+    "summary": "Biochemical fluorescence polarization assay targeting the C-terminal domain of LANA to discover inhibitors; organism not specified. Assay screens compounds with fluorescence readout, target/strain annotated as Layer 1. Goal: quantify disruption of LANA C-terminus interactions by inhibitors. No duration, dosage, or timepoints provided."
+  },
+  {
+    "id": "224_696",
+    "summary": "Bacterial assay targeting Yersinia pestis topoisomerase I (Top1) using a cleavage-product accumulation method with fluorescence readout. Designed under MLPCN to quantify Top1 catalytic cleavage activity and accumulation, enabling detection of inhibitory or modulatory compounds affecting Y. pestis Top1 function."
+  },
+  {
+    "id": "225_697",
+    "summary": "Biochemical luminescence assay assessing DYRK1A kinase activity/inhibition in vitro, organism unspecified. MLPCN screen uses luminescent readout to quantify kinase-mediated phosphorylation signal, aiming to identify modulators of Dyrk-1/DYRK1A. No dosage, timepoint, or duration details reported."
+  },
+  {
+    "id": "227_699",
+    "summary": "Biochemical turbidometric assay to evaluate protein disulfide isomerase (PDI) inhibition, organism not specified. Absorbance at 650 nm is recorded, with the absorbance t90 (time to reach 90% turbidity) as the readout metric. Goal: identify MLPCN PDI inhibitors in a biochemical absorbance-based screen."
+  },
+  {
+    "id": "228_700",
+    "summary": "Biochemical fluorescence assay evaluating Sonic hedgehog signalling in Layer 1 using the Shh-Light2 reporter system. Organism not specified. Readout captures pathway activation via fluorescence. Goal is to quantify and compare Hedgehog pathway modulation in Shh-Light2 cells to assess signalling changes under tested conditions."
+  },
+  {
+    "id": "229_701",
+    "summary": "Cell-based luminescent reporter assay assessing binding to the alpha-synuclein (SNCA) 5' untranslated region in the Layer 1 strain. Organism unspecified. Goal is to quantify 5'UTR binding to identify modulators of alpha-synuclein translation. Readout is luminescence; no explicit dosage, duration, or timepoints reported."
+  },
+  {
+    "id": "230_702",
+    "summary": "Biochemical fluorescence assay in the MLPCN maternal gene expression context, evaluating binding between MEX-5 and TCR-2 using an FITC-labeled fusion protein (FITC FP). Organism is not specified. Method: fluorescence readout of FITC signal. Goal: characterize maternal gene expression-related interactions by quantifying MEX-5-TCR-2 binding."
+  },
+  {
+    "id": "231_703",
+    "summary": "Cell-based luminescent reporter assay evaluates Epstein-Barr virus latent membrane protein 1 (LMP1) activity in mammalian cells using a Steady-Glo luciferase reporter readout. The goal is to quantify LMP1-dependent signaling and identify modulators, with luminescence as the quantitative endpoint."
+  },
+  {
+    "id": "232_704",
+    "summary": "Primary high-throughput screening in human HMLE_shECAD mammary epithelial cells (E-cadherin knockdown) to assess phenotypic viability via luminescent ATP quantification (CellTiter-Glo). Target: cancer stem cell-like viability (observation_0). Organism: Homo sapiens. Goal: identify modulators reducing viability in MLPCN Cancer Stem Cells."
+  },
+  {
+    "id": "232_705",
+    "summary": "MLPCN Cancer Stem Cells assay measures viability of HMLE_shECAD human mammary epithelial cells via CellTiter-Glo luminescence in a primary HTS. Biological target: cell viability summarized as Z_Score. Goal: identify compounds impacting cancer stem cell survival. Assay type: cell-based."
+  },
+  {
+    "id": "233_706",
+    "summary": "Cell-based fluorescence assay to identify modulators of PGC-1α (PPARGC1A) under the MLPCN initiative. Organism not specified. The method measures fluorescence in cellular context to assess modulation of the alpha isoform, aiming to discover compounds that alter PGC-1α activity. No duration/dose details provided."
+  },
+  {
+    "id": "234_707",
+    "summary": "Cell-based Bmi1 luciferase reporter assay to identify MLPCN esBAF inhibitors in cultured cells, using Steady-Glo luminescent readout. Biological target is esBAF activity inferred by Bmi1 transcriptional reporter. Organism not specified. Method: luciferase reporter measured as luminescence; goal: screen for compounds reducing reporter signal."
+  },
+  {
+    "id": "235_708",
+    "summary": "MLPCN cell-based luminescence primary screen targeting microRNA-122 (miR-122) in human cells. Goal: identify compounds altering miR-122 activity via reporter signal. Layer 1 indicates the initial screening stage. Method: luminescence readout quantifies miR-122 modulation in cultured cells."
+  },
+  {
+    "id": "236_709",
+    "summary": "Cell-based luciferase reporter assay measuring estrogen receptor (ER) lucT transcriptional activity in cultured cells (organism unspecified), targeting t10. Luminescence readout quantifies ER-driven gene expression to evaluate target t10 effects under the MLPCN NLG protocol; specific experimental durations or dosages were not provided."
+  },
+  {
+    "id": "237_710",
+    "summary": "Biochemical TAMRA fluorescence polarization (FP) anisotropy assay targeting the enzyme FadD28; organism source unspecified. Goal: discover inhibitors by monitoring changes in fluorescence anisotropy of a TAMRA-labeled ligand. MLPCN screen uses fluorescence readout to quantify disruption of FadD28-ligand binding under standard conditions."
+  },
+  {
+    "id": "237_711",
+    "summary": "Biochemical screening targeting FadD28 enzyme (organism not specified) used a TAMRA-based fluorescence assay (FP) measuring total fluorescence to monitor ligand binding. The goal was to identify small-molecule inhibitors of FadD28. Readout was fluorescence; no dosage, timepoints, or incubation durations are reported."
+  },
+  {
+    "id": "238_712",
+    "summary": "MLPCN Dengue screens antiviral activity against dengue virus serotype 2 (DENV2) using a viral cytopathic effect assay with luminescence readout to measure cell viability. The method evaluates compounds’ ability to prevent DENV2-induced CPE in infected cells, aiming to identify inhibitors of dengue virus replication and host cell death."
+  },
+  {
+    "id": "239_713",
+    "summary": "Biochemical AlphaScreen fluorescence assay evaluating interaction between His-tagged ARNT PAS-B domain and GST-tagged TACC3 (MLPCN ARNT/TACC3), Target/Strain: Layer 1, organism not specified. Readout is fluorescence. Goal: quantify ARNT–TACC3 binding and discover modulators/inhibitors of this protein–protein interaction."
+  },
+  {
+    "id": "23_34",
+    "summary": "Cell-based assay in mouse Beta-TC-3 (ATCC CRL-2350) quantifies beta-cell differentiation via immunofluorescence, reporting percent beta cells. Goal: assess beta-cell transdifferentiation outcomes. Biological target: beta-cell identity in pancreatic lineage; method: fluorescence imaging and analysis."
+  },
+  {
+    "id": "240_714",
+    "summary": "Biochemical AlphaScreen fluorescence assay (MLPCN AF4-AF9) targeting the AF4–AF9 protein-protein interaction to identify small-molecule inhibitors. Organism: not specified. Method: AlphaScreen with fluorescence readout; assay type: biochemical. Goal: disrupt AF4-AF9 binding. Target/strain metadata: Layer 1. No dosage or timepoints provided."
+  },
+  {
+    "id": "241_715",
+    "summary": "Primary MLPCN assay evaluating Cryptococcus neoformans organism with target/strain labeled Layer 1, using a bacterial-format luminescence readout to quantify viability or growth. Goal is to screen and identify actives, measuring luminescent signal changes indicative of microbial response under assay conditions."
+  },
+  {
+    "id": "242_716",
+    "summary": "Screen to identify inhibitors of the Mycobacterium tuberculosis BioA enzyme using a bacterial coupled fluorescence displacement assay. Fluorescence readout monitors displacement to infer compound binding to BioA, supporting antimicrobial discovery against TB. Specific timepoints, durations, or dosages were not provided."
+  },
+  {
+    "id": "243_717",
+    "summary": "Biochemical primary screening targeting bacterial PglD enzyme involved in UDP-bacillosamine (UDP-Bac) biosynthesis; organism unspecified. Absorbance-based readout quantifies enzyme activity to identify inhibitors or modulators, conducted under MLPCN Layer 1 conditions; no explicit dosage or timepoint details provided."
+  },
+  {
+    "id": "244_718",
+    "summary": "Biochemical assay targeting ERp5 (organism not specified) using a turbidometric method with absorbance readout at 650 nm to quantify changes in solution turbidity. The goal is to assess ERp5-associated activity or inhibition by measuring absorbance; specific dosing and timepoints not provided."
+  },
+  {
+    "id": "245_719",
+    "summary": "Cell-based HRE luciferase reporter assay to identify hypoxia-inducible factor (HIF) activators in cultured cells (organism unspecified). The HRE-driven luciferase reports HIF transcriptional activation, with luminescence as the readout. Goal: detect compounds that increase HRE-dependent luminescence, indicating HIF pathway activation."
+  },
+  {
+    "id": "246_720",
+    "summary": "Biochemical thermal shift assay on FGF22 protein (organism unspecified) using fluorescence-based differential scanning to quantify Delta Tm. The goal is to assess compound-induced stabilization or destabilization of FGF22 by measuring changes in melting temperature, enabling identification of binders; readout is fluorescence-derived melting shifts."
+  },
+  {
+    "id": "247_721",
+    "summary": "Biochemical resorufin-coupled primary fluorescence screen (NCGC) targeting PHGDH enzyme; organism unspecified; Target/Strain T20-T0. Method measures fluorescence to assess enzymatic activity. Goal: identify modulators or inhibitors of PHGDH within MLPCN campaign through high-throughput primary screening."
+  },
+  {
+    "id": "248_722",
+    "summary": "Biochemical fluorescence assay from MLPCN targeting Sirtuin 5 (SirT5; organism not specified), conducted as a primary screen (Layer 1). The method measures enzyme activity via fluorescent signal to identify small-molecule modulators/inhibitors of SirT5. No explicit dosing, timepoints, or incubation durations were reported."
+  },
+  {
+    "id": "249_724",
+    "summary": "Biochemical fluorescence (fluorescence polarization) primary screen targeting S100A4; organism not specified. Method uses FPcalc to quantify fluorescent polarization readouts. Goal: identify small-molecule modulators of S100A4 activity/interaction in the MLPCN S100A4 Primary assay."
+  },
+  {
+    "id": "24_35",
+    "summary": "Assay evaluates beta-cell transdifferentiation in mouse Beta-TC-3 (ATCC CRL-2350) cells using immunofluorescence readout to quantify percent endocrine marker-positive cells. Goal is to assess beta-cell differentiation status and endocrine identity in a cell-based assay, with fluorescence as the quantitative measure."
+  },
+  {
+    "id": "250_725",
+    "summary": "Cell-based primary screen targeting GPR85 in an unspecified organism, using a luminescence readout to quantify fold change relative to DMSO control. Method assesses compound-induced modulation of GPR85 activity. Goal: identify hits affecting GPR85 signaling; no dosage, duration, or timepoints reported."
+  },
+  {
+    "id": "250_726",
+    "summary": "Cell-based primary screen targeting GPR85 using a luminescence readout; organism unspecified. Method: cell assay quantifying luminescent signal to assess receptor activity/modulation. Goal: discover small-molecule modulators, agonists, or antagonists of GPR85. No specific doses, durations, or timepoints reported."
+  },
+  {
+    "id": "251_727",
+    "summary": "Cell-based luminescence combination screen targeting MCL-1 (BCL-2 family) with navitoclax, measuring luminescent signals to assess inhibitor activity and potential synergy. Organism/cell line not specified. Method: luminescent readout. Goal: identify MCL-1 inhibitors that potentiate navitoclax effects."
+  },
+  {
+    "id": "253_729",
+    "summary": "Cell-based assay measuring intracellular reactive oxygen species (ROS) in cultured cells (organism unspecified) using FLIPR-based fluorescence (dfc_fluorescence_flipr), aiming to identify and profile ROS inducers by quantifying ROS-dependent fluorescence signals under standard assay conditions."
+  },
+  {
+    "id": "254_730",
+    "summary": "Cell-based assay targeting MCL1 in human cells using Promega Caspase-Glo to quantify caspase-3/7 activity via luminescence. Goal is to evaluate MCL1 modulation or inhibition on apoptosis signaling and to assess compound-induced cytotoxicity by increased caspase activation compared to controls; no specific timepoints provided."
+  },
+  {
+    "id": "257_735",
+    "summary": "Cell-based assay (organism unspecified) targeting 'Layer 1' was performed using luminescence readouts to measure PRP (MLPCN PRP) activity. The goal was to assess cellular responses and identify modulators or probes affecting Layer 1, using luminescent quantification; specific timepoints or dosages were not provided."
+  },
+  {
+    "id": "258_736",
+    "summary": "Biochemical fluorescence polarization assay evaluating binding to the CAL PDZ domain using the CerCALP probe. Organism unspecified. Target: CAL PDZ; screen layer 1. Goal: detect compounds modulating PDZ-ligand interaction via fluorescence readout; no dosage or timepoint details provided."
+  },
+  {
+    "id": "259_737",
+    "summary": "Biochemical fluorescence polarization assay assessing CAL PDZ domain binding; organism unspecified. Fluorescence readout quantifies interaction changes. Goal: identify modulators/inhibitors of PDZ-ligand binding via MLPCN screening. Method: FP with CAL. No specific durations, dosages, or timepoints provided."
+  },
+  {
+    "id": "25_36",
+    "summary": "In Mus musculus Beta-TC-3 pancreatic beta-cell line (ATCC CRL-2350), a cell-based immunofluorescence assay quantifies beta-cell transdifferentiation by measuring fluorescence and computing the positive-total to alpha-positive cell ratio. The goal is to assess beta-cell differentiation status using fluorescence readouts."
+  },
+  {
+    "id": "260_738",
+    "summary": "MLPCN cell-based fluorescence assay using DiI-labeled HDL to measure HDL receptor activity in cultured cells (organism not specified). The method quantifies receptor-mediated HDL binding/uptake by monitoring DiI fluorescence. Target noted as 'Layer 1'. No explicit durations, compound dosages, or specific timepoints reported."
+  },
+  {
+    "id": "261_739",
+    "summary": "Biochemical thermal shift assay with fluorescence readout targeting FGF-22 protein, organism not specified, to quantify melting temperature (Tm) and thermal stability. Fluorescence monitors unfolding; Target/Strain field indicates 'tm'. No dosage, duration, or specific timepoints were provided in the metadata."
+  },
+  {
+    "id": "262_740",
+    "summary": "Cell-based MLPCN VIF primary screen targeting viral infectivity factor (VIF) in an unspecified organism; fluorescence readout quantifies %positivew2_mean, the mean percent-positive cells at the w2 timepoint. Goal: identify small-molecule hits modulating VIF-associated phenotype using high-throughput fluorescence measurement in cultured cells."
+  },
+  {
+    "id": "263_741",
+    "summary": "This MLPCN primary assay targets malaria HSP40 in a yeast-based growth-rescue format, aiming to identify compounds that modulate HSP40 function to restore growth. Viability is quantified by luminescence using BacTiter-Glo (ATP-dependent). Assay type is annotated as bacterial, and the readout is luminescence."
+  },
+  {
+    "id": "264_742",
+    "summary": "Biochemical primary high-throughput screening targeting RAD54 using FITC-labeled RAD54 with fluorescence readout to identify small-molecule modulators or inhibitors. Organism not specified. Assay monitors fluorescence changes reflecting RAD54 activity or binding; specific dosages, durations, and timepoints are not reported."
+  },
+  {
+    "id": "265_743",
+    "summary": "MLPCN HIV Entry assay evaluates HIV-1 JRFL strain Env-mediated entry via a cell-cell fusion assay (viral), using luminescence readout. Biological target: HIV-1 Env; organism: HIV-1 (JRFL). Goal: screen/quantify inhibitors of viral entry/fusion. Metadata notes Target/Strain: Layer 1. No explicit dose/time conditions provided."
+  },
+  {
+    "id": "266_744",
+    "summary": "High-throughput bacterial assay screening MLPCN compounds to modulate Vibrio cholerae quorum sensing. Organism: Vibrio cholerae. Biological target: quorum sensing pathway; method: HTS with luminescence readout. Goal: identify inhibitors or activators of quorum signaling by measuring changes in luminescence."
+  },
+  {
+    "id": "267_745",
+    "summary": "MLPCN yeast whole-cell high-throughput fluorescence assay assessing start codon fidelity. Biological target: translational start-site selection, quantified by a steady/alamar ratio readout. Organism: yeast. Method: HTS live-cell fluorescence reporter. Goal: discover modulators that affect start codon fidelity in yeast."
+  },
+  {
+    "id": "268_746",
+    "summary": "Biochemical differential scanning fluorimetry (DSF) assay targeting MCL-1; target/strain recorded as 'tm', organism unspecified. Fluorescence readout monitors thermal shift to assess ligand-induced stabilization or binding to MCL-1. Goal is to evaluate compound interactions. No dosages, durations, or timepoints provided."
+  },
+  {
+    "id": "269_747",
+    "summary": "Cell-based reporter assay measuring insulin secretion in mammalian cells using Gaussia luciferase (GLuc) luminescence readout. Target: insulin secretion pathway; organism: mammalian cell line (unspecified). Method: luminescent reporter gene. Goal: quantify insulin secretion activity for MLPCN screening."
+  },
+  {
+    "id": "26_37",
+    "summary": "Cell-based immunofluorescence assay quantifying total endocrine marker–positive cells during beta-cell transdifferentiation in the mouse Beta-TC-3 pancreatic beta-cell line (ATCC CRL-2350). Fluorescence readout captures immunolabeled endocrine differentiation status, aiming to assess beta-cell differentiation/transdifferentiation efficiency in vitro; no explicit timepoints or dosages specified."
+  },
+  {
+    "id": "270_748",
+    "summary": "Cell-based high-content screening in human HUVEC evaluates upregulation of E-Selectin using fluorescence readout. The biological target is endothelial E-Selectin; organism is Homo sapiens. Outcome quantified as %positivew2_mean (mean percentage of fluorescence-positive cells), aiming to identify modulators that increase E-Selectin expression."
+  },
+  {
+    "id": "271_749",
+    "summary": "High-throughput screening in human iPSC-derived cells measured Wnt/β-catenin pathway activation via TCF/LEF-responsive luciferase luminescence in the presence of Wnt3a-conditioned medium. The goal was to identify modulators of TCF/LEF activity, using a cell-based luminescent readout to quantify transcriptional responses."
+  },
+  {
+    "id": "272_750",
+    "summary": "Assay screens for growth inhibition of Cryptococcus neoformans in a bacterial-format MLPCN spin-off, using alamar blue viability dye with fluorescence readout. Biological target: metabolic reduction of alamar blue reflecting cellular viability. Goal: identify compounds that suppress C. neoformans growth."
+  },
+  {
+    "id": "273_751",
+    "summary": "Biochemical high-throughput screening (HTS) for Heat Shock Factor 2 (HSF2) used luminescence readout to quantify target engagement, aiming to identify modulators of HSF2 activity. Organism unspecified; Target/Strain listed as Layer 1. Assay named MLPCN HSF2; no dosage, duration, or timepoints reported."
+  },
+  {
+    "id": "274_752",
+    "summary": "High-throughput screening (HTS) in Homo sapiens HEK293 cells co-transfected with LGR2 and CRE6x firefly luciferase reporter measures luminescent cAMP output from bursicon-stimulated LGR2. Biological target: firefly luciferase reporter of cAMP. Goal: identify small-molecule inhibitors that reduce bursicon-induced LGR2 signaling."
+  },
+  {
+    "id": "275_753",
+    "summary": "Cell-based MLPCN X-reactivation screen in an organism-unspecified cell line, targeting total cell count (totalcells_sum) by high-content fluorescence imaging, aiming to identify conditions or compounds that induce X-chromosome reactivation. Readout quantifies fluorescence; no specific dosage, durations, or timepoints reported."
+  },
+  {
+    "id": "275_754",
+    "summary": "Cell-based high-content fluorescence imaging assay (organism unspecified) assessing X-chromosome reactivation. Biological target/process: X-reactivation; endpoint: %positivew2_mean, quantifying fluorescence-positive cells per well. Method: automated high-content microscopy; goal: identify modulators that increase percent positive signal indicative of X-reactivation."
+  },
+  {
+    "id": "276_755",
+    "summary": "Biochemical fluorescence assay from MLPCN assessing ERAP1 enzymatic activity in an unspecified organism, using a delta-fluorescence readout (fluorescencedelta). Method quantifies fluorescence changes to measure activity, aiming to screen and characterize inhibitors or modulators of ERAP1 function. No explicit durations or dosages reported."
+  },
+  {
+    "id": "277_756",
+    "summary": "Cell-based quenching assay in human CFBE bronchial epithelial cells measuring YFP fluorescence to assess CFTR function. Fluorescence readout quantifies YFP quenching as a proxy for CFTR activity, aiming to screen or evaluate modulators of CFTR. Method: MLPCN CFTR cell assay, no specified timepoints or dosages."
+  },
+  {
+    "id": "278_757",
+    "summary": "Cell-based MLPCN assay assessing caspase-6 activity in strain f40 using a VEID(2)-R110 enzymatic substrate with luminescence readout. Organism not specified. Method quantifies cleavage of VEID-R110 by caspase-6. Goal is to discover small-molecule modulators/inhibitors of caspase-6."
+  },
+  {
+    "id": "279_758",
+    "summary": "Cell-based fluorescence assay on AH1F cell monolayers to evaluate inhibition of Alexa 488-fibronectin deposition. Biological target: fibronectin matrix assembly on Layer 1 surface. Organism: AH1F cell line (species not specified). Method: fluorescent readout. Goal: identify compounds that reduce fibronectin deposition."
+  },
+  {
+    "id": "27_38",
+    "summary": "Cell-based screen targeting the Plasmodial Surface Anion Channel (PSAC) in Plasmodium IndoChina blood-stage parasites (01 h timepoint), using a blood osmotic lysis assay (absorbance at 700 nm) with an optimized CellTiter-Glo viability readout, to identify PSAC antagonists and assess effects on cell viability."
+  },
+  {
+    "id": "27_39",
+    "summary": "Cell-based PSAC antagonist screen on IndoChina blood-stage cells. Method: optimized CellTiter-Glo viability assay with absorbance at 700 nm to quantify osmotic lysis and viability after 2 hours (02h) exposure. Goal: identify inhibitors of the plasma membrane anion channel."
+  },
+  {
+    "id": "27_40",
+    "summary": "Cell-based PSAC antagonist screen in Plasmodium falciparum IndoChina blood-stage parasites at 3 hours, using optimized CellTiter-Glo viability readout and blood osmotic lysis monitored by absorbance at 700 nm, to identify compounds that inhibit parasite-induced anion channel activity and improve erythrocyte survival."
+  },
+  {
+    "id": "280_759",
+    "summary": "Assay screens for inhibitors of Clostridioides difficile toxins using a bacterial fluorescence assay. The biological target is C. difficile toxin activity; organism is C. difficile. Method employs Amplex Red fluorescent readout to quantify toxin-induced effects, with the goal of discovering toxin inhibitors (MLPCN C. diff tox)."
+  },
+  {
+    "id": "281_760",
+    "summary": "Cell-based high-throughput screening targeting CaV1.3 (L-type calcium channel) ICDI/IQ interaction in live cells, using FRET with fluorescence readout, organism unspecified; target/strain designated FR. Goal: identify inhibitors disrupting this protein-protein interaction to modulate CaV1.3 signaling."
+  },
+  {
+    "id": "283_762",
+    "summary": "Biochemical AlphaScreen fluorescence primary screen targeting human NSD2 (MMSET/WHSC1), a nuclear SET-domain histone methyltransferase. The assay measures in vitro enzymatic activity to identify small-molecule modulators/inhibitors. Conducted as a MLPCN primary screen; no specific timepoints, doses, or durations reported."
+  },
+  {
+    "id": "29_43",
+    "summary": "Cell-based reporter assay in mouse pulmonary artery smooth muscle cells (mPASMC) targets BMP-SMAD signaling. Enzyme-coupled colorimetric readout uses p-nitrophenyl phosphate (PNPP) to quantify pathway activity. Goal: screen and evaluate modulators of BMP-SMAD signaling in mPASMC, assessing changes in reporter enzyme activity."
+  },
+  {
+    "id": "37_69",
+    "summary": "CardiovascularProfiling.FluorDye.JC-1Mito assesses mitochondrial membrane potential in endothelial cells (organism unspecified) using JC-1 fluorescence. AO0926 strain/condition under basal treatment for 24 hours is profiled. Cell-based assay aims to characterize cardiovascular-relevant endothelial function, with fluorescent readout quantifying JC-1 aggregation/monomer ratios at the 24 h timepoint."
+  },
+  {
+    "id": "37_70",
+    "summary": "Cell-based cardiovascular profiling in endothelial cells (AO1809 line), using JC-1 mitochondrial dye fluorescence to assess mitochondrial membrane potential at basal conditions. Organism unspecified. Readout collected after 24 hours (AO1809._Basal.24h). Goal: profile endothelial mitochondrial function for cardiovascular context via fluorescence method."
+  },
+  {
+    "id": "37_74",
+    "summary": "Cell-based cardiovascular endothelial profiling using JC-1 mitochondrial fluorescent dye to assess mitochondrial membrane potential in endothelial cells (organism not specified). Target/strain MV1504._Basal.24h evaluated at 24 hours under basal conditions. Fluorescence readout quantifies JC-1 signal; goal is profiling mitochondrial status in EndothelialCellProfiling2."
+  },
+  {
+    "id": "37_77",
+    "summary": "Cell-based JC-1 mitochondrial membrane potential fluorescence assay profiling endothelial cells (organism unspecified). Biological target: UV0482 under basal conditions for 24 hours. Method: JC-1 dye fluorescence readout. Goal: cardiovascular/endothelial cell profiling to assess mitochondrial function and bioenergetic status."
+  },
+  {
+    "id": "3_3",
+    "summary": "Cell-based assay targeting androgen signaling in human HEK293.CARY cells, using DAPI fluorescent dye for nuclear staining and fluorescence readout. The ARHCS protocol measures fluorescence to assess pathway activity. Goal: evaluate androgen signaling-driven cellular responses in HEK293 cells via quantitative fluorescence detection."
+  },
+  {
+    "id": "40_95",
+    "summary": "Cell-based endothelial profiling (EndothelialCellProfiling2) assessing UV0445 target under basal conditions for 24 h using luminescence (CellTiter-Glo) readouts. Organism unspecified. Goal: cardiovascular profiling, quantifying cell viability/metabolic activity. Method: luminescence assay in endothelial cells; timepoint 24 h; target/strain UV0445; no treatment."
+  },
+  {
+    "id": "40_96",
+    "summary": "CardiovascularProfiling.Lumin.CTG assayed endothelial cells (organism unspecified) targeting UV0482 under basal conditions for 24 h, using a CellTiter-Glo luminescence cell-based method to measure ATP/viability. Goal: endothelial cell profiling in the CardiovascularProfiling panel via luminescent readout."
+  },
+  {
+    "id": "42_103",
+    "summary": "Cell metabolic profiling in unspecified organism, TubesC cell strain under basal conditions for 48 h, targeting cellular metabolic activity. Method: MTT stain colorimetric assay with absorbance readout to quantify formazan formation. Goal: assess metabolic status and viability in a cell-based context."
+  },
+  {
+    "id": "42_104",
+    "summary": "Cell-based metabolic profiling in cultured cells (organism unspecified), assessing CCCP (carbonyl cyanide m-chlorophenyl hydrazone) effects on mitochondrial activity/viability using MTT stain with absorbance readout after 48 hours of treatment; goal is to quantify metabolic impairment under CCCP in the TubesC condition."
+  },
+  {
+    "id": "44_106",
+    "summary": "Cell-based glucose metabolism assay using L6 cell line (organism unspecified), employing Amplex Red fluorescent dye with fluorescence readout. Goal is to profile and quantify glucose metabolism in L6 cells. No specific dosing, duration, or timepoints are provided."
+  },
+  {
+    "id": "46_120",
+    "summary": "Cell-based fluorescence assay profiling cellular metabolism in organism strain MCH58.PKLO.Gal. Biological target: cellular metabolic activity. Method: DAPI fluorescent dye staining with CellMetabolicProfiling.FluorDye.DAPI protocol and fluorescence readout. Goal: quantify metabolic state of cells; no specific timepoints or dosages reported."
+  },
+  {
+    "id": "49_149",
+    "summary": "Cell-based assay profiling adipocyte differentiation in Mus musculus (C57BL/6) IRS1−/− cells induced with Dex, IBMX, and Indo. Nile Red fluorescence quantifies neutral lipid accumulation. Goal: assess metabolic and adipogenic responses to IRS1 loss under adipogenic induction. Readout: fluorescence intensity as a measure of differentiation."
+  },
+  {
+    "id": "50_154",
+    "summary": "Cell assay in C57B6 mouse IRS1/IRS2+/+ cells assessing adipocyte differentiation via metabolic profiling. Fluorescent Oil Red O staining quantifies lipid accumulation with fluorescence readout at 96 hours, targeting IRS1 and IRS2 signaling context to evaluate differentiation-associated metabolic changes."
+  },
+  {
+    "id": "53_178",
+    "summary": "Cell-based metabolism profiling of TubesC strain cells under basal conditions for 48 hours, using a luminescent CellTiter-Glo (CTG) assay to quantify ATP/viability. Organism unspecified. Method: luminescence readout. Goal: characterize baseline metabolic activity profiles in cell culture."
+  },
+  {
+    "id": "54_179",
+    "summary": "Cell-based fluorescence assay measuring cellular esterase activity in human A549 lung carcinoma cells under basal conditions for 24 h. Calcein dye generates the fluorescent readout. Goal: ModifierMatrixProfiling2 - systematic profiling of baseline esterase/viability in this cell line."
+  },
+  {
+    "id": "54_182",
+    "summary": "Cell-based fluorescence assay evaluating cellular esterase activity in human A549 lung carcinoma cells (A549.Caly.24h) using the Calcein fluorogenic dye, within a ModifierMatrixProfiling2 framework. Cells were measured after 24 hours to profile modifier-induced effects on intracellular calcein conversion, quantifying esterase-dependent fluorescence as the readout."
+  },
+  {
+    "id": "5_5",
+    "summary": "Assay evaluates inhibition of Bacillus anthracis lethal factor (LF) activity, using murine macrophage cell line TIB-67 (J774A.1) challenged with LF+protective antigen (PA). Luminescent CellTiter-Glo readout quantifies cell viability, assessing bacterial pathogenesis modulation; goal is to identify LF inhibitors preventing anthrax cytotoxicity."
+  },
+  {
+    "id": "6_7",
+    "summary": "A cell-based ApoptoticSignaling assay in human HTB-65_MSCV_A1_tBID cells quantifies caspase activity via Caspase-Glo luminescence to assess A1 (BCL2A1) inhibition. Goal is to evaluate apoptosis triggered by tBID and determine how A1 inhibition modulates apoptotic signaling in this human line."
+  },
+  {
+    "id": "70_211",
+    "summary": "Cell-based assay in HEK293 human cells interrogating cyclic AMP signaling using the cAMP-EBX1 reporter construct. Luminescent LuxReporter readout measures cAMP-responsive transcriptional activity. Goal: assess modulators of the cAMP pathway in human cells via reporter activation to quantify signaling changes."
+  },
+  {
+    "id": "71_212",
+    "summary": "Cell-based reporter assay using BHK (baby hamster kidney) cells infected with dengue virus (BHK.Dengue.10h), measuring Lux-Ren luciferase after 10 h to quantify viral translation inhibition. Goal: evaluate dengue infectivity and translation suppression by test agents via luminescent LuxReporter readout."
+  },
+  {
+    "id": "71_213",
+    "summary": "Cell-based reporter assay in BHK hamster cells infected with dengue virus, measuring Lux luciferase (Lux-Ren) signal to assess viral translation and infectivity. Biological target: dengue virus translation; organism: BHK cells. Goal: evaluate translation inhibition effects over 24 hours (24h timepoint) via lux reporter readout."
+  },
+  {
+    "id": "76_230",
+    "summary": "Biochemical CTG luminescence assay in human HMLE cells compares siECAD (CDH1 knockdown) versus siGFP control to probe E-cadherin signaling synthetic lethality. Goal is to quantify viability differences via luminescent readout to identify dependencies associated with E-cadherin loss."
+  },
+  {
+    "id": "78_237",
+    "summary": "Cell-based assay measuring erythroid cell survival in the fetal hepatocyte–associated strain (FetalHepat.As) using a luminescent CellTiter-Glo (CTG) readout. Goal: quantify ATP-dependent viability under experimental treatments; organism not specified. No duration, dosage, or timepoints reported."
+  },
+  {
+    "id": "7_10",
+    "summary": "Assay evaluates aspulvinone metabolic upregulation in the bacterial strain ATCC10020.CsA+ using colorimetric metabolite detection, monitoring absorbance at 405 nm. Goal is to quantify regulation-linked changes in aspulvinone levels via bacterial culture readout with absorbance-based colorimetry."
+  },
+  {
+    "id": "7_11",
+    "summary": "This bacterial assay evaluates Aspulvinone upregulation in strain ATCC10020.CsA- by measuring absorbance at 405 nm. Biological target: Aspulvinone regulation. Organism: ATCC10020, CsA- variant. Method: spectrophotometric absorbance. Goal: quantify regulatory effects on Aspulvinone production under the tested conditions."
+  },
+  {
+    "id": "80_239",
+    "summary": "Cell-based reporter assay in mouse C2C12 myoblasts (C2C12.FRG1) measuring FRG1 protein expression using a Lux Reporter dual-luciferase (Firefly/Renilla) system, aiming to model Facioscapulohumeral muscular dystrophy and quantify transcriptional activation of FRG1. No explicit dose, timepoint, or duration parameters are specified."
+  },
+  {
+    "id": "81_241",
+    "summary": "Biochemical luminescence assay (Kinase-Glo) assessing galactokinase 1 (GALK1) activity in vitro; organism not specified. Luminescent readout reflects ATP consumption by GALK1 to quantify enzymatic activity. Goal is to measure galactokinase signaling/activity for functional characterization under assay conditions; no specific dosages or timepoints provided."
+  },
+  {
+    "id": "82_242",
+    "summary": "Cell-based assay profiling genotype-specific inhibitors in non-small cell lung cancer using human CCL-185 cells. Viability is quantified via resazurin fluorogenic dye with fluorescence readout to assess inhibitor effects. Goal: genotype profiling of NSCLC drug response; organism: Homo sapiens; method: resazurin fluorescence."
+  },
+  {
+    "id": "82_243",
+    "summary": "Biological target: CRL-5865 human non-small cell lung cancer cells. Organism: Homo sapiens. Method: cell-based resazurin fluorometric assay measuring metabolic activity via fluorescence. Goal: genotype-specific inhibitor profiling in NSCLC, quantifying compound effects on viability using fluorescence readouts; no explicit doses or timepoints provided."
+  },
+  {
+    "id": "83_244",
+    "summary": "Biochemical assay targeting glutamate dehydrogenase (GluDH) in an unspecified organism, using absorbance measurement at 360 nm (GlutamateDehydrogenase.Absorb.360) to quantify enzyme activity. Method: GDHAssay format; readout: absorbance. Goal: assess GluDH catalytic function for activity characterization."
+  },
+  {
+    "id": "83_245",
+    "summary": "Biochemical assay targeting glutamate dehydrogenase (GluDH), a GTP-associated variant; organism not specified. Goal: quantify enzyme activity and GTP modulation by absorbance. Method: spectrophotometric readout at 360 nm (Absorb.360), measuring reaction progress in solution. No explicit dosing, timepoints, or durations reported."
+  },
+  {
+    "id": "84_246",
+    "summary": "Assay evaluates GlnA (glutamine synthetase) in an unspecified organism using a homogeneous glutamate dehydrogenase-coupled absorbance method at 540 nm (readout: absorbance). Goal is to quantify GlnA-related enzymatic activity or modulation via GDH reaction, enabling detection of product formation under assay conditions; no timepoints/dosages reported."
+  },
+  {
+    "id": "85_247",
+    "summary": "Cell-based synthetic lethality assay in human KOPT-K1 cells under gamma-secretase inhibitor (GSI) context, using resazurin fluorescent dye to measure viability/metabolic activity. Fluorescence readout quantifies effects to identify GSI-sensitized lethal interactions. Biological target: gamma-secretase inhibition; organism: Homo sapiens."
+  },
+  {
+    "id": "85_248",
+    "summary": "Assay GSISyntheticLethality.FluorDye.Resazurin uses the KoptK1 cell line (organism unspecified) in a cell-based fluorescence viability assay with resazurin dye to evaluate synthetic lethality under gamma-secretase inhibitor (GSI) versus basal conditions. Goal: identify GSI-dependent vulnerabilities; readout resorufin fluorescence."
+  },
+  {
+    "id": "86_249",
+    "summary": "Cell-based luminescence reporter assay Lux-Hrl measuring Hairless (Hrl) signaling using HR2 target/strain in an unspecified organism. Method: HairlessReporter construct drives Lux output; readout is luminescence to quantify pathway activity. Goal: assess modulation of Hairless signaling in cells via reporter activation/inhibition; specific durations or dosages not provided."
+  },
+  {
+    "id": "86_250",
+    "summary": "Cell-based luminescence reporter assay assessing Hairless signaling, targeting HR3, in unspecified organism cells. The Lux-Hrl HairlessReporter measures transcriptional activity via luminescence readout to quantify pathway modulation. Goal: evaluate HR3-dependent Hairless pathway activity in cells under experimental conditions; duration and dosage not provided."
+  },
+  {
+    "id": "88_252",
+    "summary": "Cell-based assay in mouse 3T3 fibroblasts using an HSE-GFP reporter to monitor heat shock response activation. Fluorescence readout quantifies modulation of HSF/HSE-driven transcription. Goal is to assess treatments or conditions that alter heat-shock signaling strength in 3T3 cells."
+  },
+  {
+    "id": "88_254",
+    "summary": "Cell assay assessing heat-shock response modulation in 3T3.43C cells via HSE-GFP reporter. Organism: mammalian (3T3 lineage). Method: fluorescence quantification of HSE-driven GFP. Biological target: heat shock transcriptional activity (HSF/HSE). Goal: determine effects of modulators on heat-shock pathway activation compared to baseline."
+  },
+  {
+    "id": "89_255",
+    "summary": "Biochemical in vitro assay targeting heme; organism not specified. Goal: quantify heme crystallization by measuring absorbance at 405 nm. Method: spectrophotometric readout of crystal formation; absorbance increase reflects crystallization extent. No explicit timepoints, dosage, or incubation durations provided."
+  },
+  {
+    "id": "8_12",
+    "summary": "Bacterial assay assessing Aspulvinone regulation/upregulation in the ATCC10020 (CsA+) strain by measuring 600 nm absorbance (OD600). The method tracks culture turbidity to evaluate the biological target Aspulvinone’s regulatory impact, with the goal of quantifying upregulation effects on bacterial growth or expression."
+  },
+  {
+    "id": "8_13",
+    "summary": "Assay evaluates aspulvinone regulation in bacterial strain ATCC10020.CsA- using absorbance (OD600) measurements. Goal: quantify upregulation by monitoring optical density at 600 nm in culture. Method: bacterial growth absorbance readout to infer regulatory response; specific dosing and timepoints are not provided."
+  },
+  {
+    "id": "90_256",
+    "summary": "Biochemical, cell-free assay targeting heme detoxification (Heme.FRAP+) using spectrophotometric absorbance at 414 nm to quantify heme detoxification/reduction capacity. Organism: none (in vitro). Method: absorbance readout. Goal: assess FRAP-positive heme processing efficiency; no specified durations, dosages, or timepoints."
+  },
+  {
+    "id": "91_257",
+    "summary": "Cell-based luminescent HCV replication reporter assay measuring Hepatitis C virus infectivity in human Huh7 hepatoma cells. Under basal conditions, cells were incubated for 48 hours, then read by CTG luminescence. Goal: quantify HCV replication/infectivity to evaluate antiviral activity."
+  },
+  {
+    "id": "92_258",
+    "summary": "This cell-based assay quantifies hepatitis C virus (HCV) infectivity/replication in human Huh7 hepatoma cells (Homo sapiens) using a Lux-Feo luminescent reporter readout. The method employs an HCV replication reporter construct, and the goal is to measure viral replication dynamics via LuxReporter signal in Huh7."
+  },
+  {
+    "id": "93_259",
+    "summary": "Biochemical in vitro assay measuring HoxA13 (homeobox A13) binding to HoxDNA motifs using a fluorescently labeled oligonucleotide and fluorescence readout. Organism: not specified. Fluorescence signal reports HoxA13–DNA complex formation. Goal: quantify DNA-binding activity/affinity of HoxA13 for motif-containing sequences to support comparative or modulator assessment."
+  },
+  {
+    "id": "9_14",
+    "summary": "Assay evaluates Mycobacterium tuberculosis viability inhibition in bacterial assay targeting strain EFAE. Method: absorbance measurement at 600 nm (OD600) to monitor growth/viability. Goal: quantify inhibitory effects on bacterial viability. No duration, dosage, or timepoints specified in metadata."
+  },
+  {
+    "id": "9_17",
+    "summary": "Assay BacterialViability.Absorb.600 measures bacterial viability inhibition using absorbance (OD600). Target/strain: PAO1; organism context: Mycobacterium tuberculosis viability inhibition. Goal is to quantify bacterial growth/viability changes by absorbance at 600 nm in a bacterial assay."
+  },
+  {
+    "id": "9_18",
+    "summary": "Biological target: Mycobacterium tuberculosis viability (strain SAU). Organism: M. tuberculosis. Method: bacterial growth measured by 600 nm absorbance (OD600). Goal: quantify viability inhibition in a bacterial assay using absorbance readout."
+  }
+]
