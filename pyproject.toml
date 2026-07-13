@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openpheno"
+version = "0.1.0"
+description = "OpenPheno: phenotypic bioactivity prediction as open-set biological assay querying"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "OpenPheno authors" }
+]
+dependencies = [
+  "numpy>=1.26,<2",
+  "pandas>=2.3",
+  "scipy>=1.15",
+  "scikit-learn>=1.7",
+  "torch>=2.4",
+  "torchvision>=0.19",
+  "timm>=1.0",
+  "transformers>=4.57",
+  "tokenizers>=0.22",
+  "sentence-transformers>=5.2",
+  "rdkit>=2024.3",
+  "tifffile>=2025.5",
+  "Pillow>=11",
+  "tqdm>=4.65",
+  "wandb>=0.21",
+  "einops>=0.8",
+  "boto3>=1.43",
+  "botocore>=1.43",
+  "petrel-oss-sdk>=2.3.19",
+  "matplotlib>=3.10",
+  "seaborn>=0.13"
+]
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["downstream*", "pretrain*", "mega_molbart*"]
+namespaces = true

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ADRA1A_Antagonist",
+    "summary": "Assay evaluates antagonists of the Alpha-1A adrenergic receptor (ADRA1A), a 7TM target. Antagonist activity is determined by inhibition of Barr2 recruitment to the receptor, measured via FRET. A positive label indicates compounds that antagonize ADRA1A by reducing Barr2 recruitment signal in this FRET-based assay."
+  },
+  {
+    "id": "ADRA2A_Antagonist",
+    "summary": "This assay targets the Alpha-2A adrenergic receptor (gene ADRA2A), a 7TM GPCR. Antagonist activity is assessed by beta-arrestin2 (Barr2) recruitment measured via FRET. A positive ADRA2A_Antagonist label indicates compounds that antagonize ADRA2A, reducing Barr2 recruitment signal in the FRET assay."
+  },
+  {
+    "id": "ADRA2B_Antagonist",
+    "summary": "Assay P00075 profiles antagonism at the Alpha-2B adrenergic receptor (ADRA2B; 7TM). Using a FRET-based beta-arrestin-2 (Barr2) recruitment readout, compounds labeled ADRA2B_Antagonist are those that block/inhibit receptor-mediated Barr2 recruitment at ADRA2B, indicating antagonist activity at the ADRA2B gene product measured by FRET technology."
+  },
+  {
+    "id": "CAR_Antagonist",
+    "summary": "This assay targets the constitutive androstane receptor (CAR; gene NR1I3), a nuclear receptor (NR). Antagonist mode is assessed via a co-factor recruitment mechanism using TR-FRET. A positive label denotes compounds that antagonize CAR by inhibiting co-factor recruitment, indicating reduced CAR activation in this recruitment assay."
+  },
+  {
+    "id": "ERa_Antagonist",
+    "summary": "This assay targets Estrogen receptor-α (ERα; gene ESR1), a nuclear receptor (NR). Compounds labeled positive act as antagonists by inhibiting ERα co-factor recruitment. Activity is measured via TR-FRET in a co-factor recruitment format. A positive label indicates antagonist activity against ERα, reducing cofactor interaction in this biochemical assay."
+  },
+  {
+    "id": "ERb_Antagonist",
+    "summary": "This TR-FRET co-factor recruitment assay targets estrogen receptor-β (ERβ; gene ESR2), a nuclear receptor (NR). The antagonist mode indicates compounds that reduce ERβ co-regulator binding. A positive label denotes ERβ antagonism, evidenced by inhibited co-factor recruitment measured via TR-FRET."
+  },
+  {
+    "id": "GPR119_Antagonist",
+    "summary": "Assay P00213 evaluates antagonists of the Glucose-dependent insulinotropic receptor (GPR119; gene GPR119), a 7TM receptor. It measures beta-arrestin-2 (Barr2) recruitment using FRET. A positive label denotes compounds that antagonize GPR119, blocking or reducing Barr2 recruitment signal relative to agonist-driven activity in this FRET assay."
+  },
+  {
+    "id": "GR_Agonist",
+    "summary": "Assay P00184 measures agonist activity at the glucocorticoid receptor (GR; gene NR3C1), a nuclear receptor (NR), using a TR-FRET cofactor recruitment format. A positive GR_Agonist label indicates compounds that activate GR, promoting recruitment of co-factors to the receptor as detected by TR-FRET signal."
+  },
+  {
+    "id": "HCTR1_Antagonist",
+    "summary": "This assay targets the Orexin/Hypocretin receptor type 1 (HCRTR1; 7TM). Using FRET to monitor Barr2 recruitment, it identifies antagonists that block receptor-mediated beta-arrestin-2 engagement. A positive label indicates compounds functioning as HCTR1 antagonists that reduce Barr2 recruitment signal relative to activation."
+  },
+  {
+    "id": "PPARa_Antagonist",
+    "summary": "Assay P00009 evaluates antagonism of the nuclear receptor Peroxisome proliferator-activated receptor-α (PPARα; gene PPARA). Using a TR-FRET co-factor recruitment format, it measures inhibition of coactivator binding. A positive PPARa_Antagonist label denotes compounds that antagonize PPARα by reducing co-factor recruitment, consistent with antagonist activity in this NR target."
+  },
+  {
+    "id": "PPARg_Antagonist",
+    "summary": "Assay detects antagonist activity against Peroxisome proliferator-activated receptor-γ (PPARG), an NR class target, via a Co-factor Recruitment mechanism measured by TR-FRET. A positive label indicates compounds that antagonize PPARγ by reducing or disrupting co-factor recruitment, consistent with inhibitory modulation of receptor activity."
+  },
+  {
+    "id": "PR_Agonist",
+    "summary": "Assay P00040 measures agonist activity at the progesterone receptor (PR; gene PGR), a nuclear receptor (NR), using a co-factor recruitment mechanism quantified by TR-FRET. A positive PR_Agonist label indicates the compound promotes PR-co-factor interaction, consistent with receptor activation."
+  },
+  {
+    "id": "PR_Antagonist",
+    "summary": "This assay evaluates antagonist activity against the Progesterone receptor (PR, gene PGR), target class NR, using a co-factor recruitment mechanism measured by TR-FRET. A positive PR_Antagonist label indicates compounds that antagonize PR by inhibiting co-factor recruitment, resulting in decreased TR-FRET interaction signal."
+  },
+  {
+    "id": "PXR_Agonist",
+    "summary": "This label describes compounds that act as agonists of Pregnane X receptor (PXR; gene NR1I2), a nuclear receptor (NR). The assay measures co-factor recruitment using TR-FRET. A positive label indicates activation of PXR leading to recruitment of co-regulators detected by TR-FRET."
+  },
+  {
+    "id": "RARa_Antagonist",
+    "summary": "This assay evaluates antagonist activity against retinoic acid receptor-α (RARα; gene RARA), a nuclear receptor (NR), using a TR-FRET co‑factor recruitment mechanism. A positive label denotes compounds that act as RARα antagonists by inhibiting co‑factor recruitment in the TR-FRET assay."
+  },
+  {
+    "id": "RARb_Antagonist",
+    "summary": "Assay screens for antagonists of Retinoic acid receptor-β (RARβ; gene RARB), a nuclear receptor (NR), using a co-factor recruitment mechanism measured by TR-FRET. A positive label denotes compounds that antagonize RARβ by inhibiting co-factor recruitment, producing decreased TR-FRET signal consistent with antagonist activity."
+  },
+  {
+    "id": "RARg_Antagonist",
+    "summary": "This assay targets Retinoic acid receptor-γ (RARG), a nuclear receptor (NR). Antagonist mode is assessed via a co-factor recruitment mechanism using TR-FRET technology. A positive label indicates compounds that antagonize RARγ by disrupting co-factor recruitment interactions detected by TR-FRET, evidencing inhibitory activity at the receptor."
+  },
+  {
+    "id": "RORa_Antagonist",
+    "summary": "Assay P00243 tests antagonists of RAR-related orphan receptor-α (RORα; gene RORA), a nuclear receptor (NR). Using TR-FRET co-factor recruitment, it measures disruption of cofactor binding to RORα. A positive label denotes compounds exhibiting antagonist activity that reduce co-factor recruitment in this assay."
+  },
+  {
+    "id": "RORb_Antagonist",
+    "summary": "Assay P00214 evaluates antagonist activity at RAR-related orphan receptor-β (RORβ; gene RORB), a nuclear receptor (NR). Using TR-FRET co-factor recruitment, the assay measures disruption of co-regulator binding. A positive RORb_Antagonist label indicates compounds that antagonize RORβ by inhibiting co-factor recruitment in this biochemical readout."
+  },
+  {
+    "id": "RORg_Antagonist",
+    "summary": "This assay evaluates antagonist activity at RAR-related orphan receptor-γ (RORγ; gene RORC), a nuclear receptor (NR), using a TR-FRET co-factor recruitment format. A positive label indicates compounds that antagonize RORγ by reducing co-factor recruitment signal, consistent with inhibitory modulation of receptor–cofactor interaction."
+  },
+  {
+    "id": "RXRa_Antagonist",
+    "summary": "Assay P00049 evaluates antagonists of Retinoid X receptor-α (RXRA, gene RXRA; target class NR) via a co-factor recruitment mechanism measured by TR-FRET. A positive RXRa_Antagonist label indicates compounds that antagonize RXRα by inhibiting co-factor recruitment, reducing the TR-FRET signal consistent with antagonistic activity."
+  },
+  {
+    "id": "RXRb_Antagonist",
+    "summary": "Antagonist activity against Retinoid X receptor-β (RXRB gene), a nuclear receptor (NR), assessed by a co-factor recruitment assay using TR-FRET. A positive label indicates compounds that antagonize RXRβ by decreasing co-factor recruitment signal in the TR-FRET assay."
+  },
+  {
+    "id": "RXRg_Antagonist",
+    "summary": "This assay targets Retinoid X receptor-γ (RXRG gene), a nuclear receptor (NR). Using a TR-FRET co-factor recruitment format, it detects antagonist activity: compounds that reduce or block RXRγ co-factor binding. A positive RXRg_Antagonist label denotes molecules acting as RXRγ antagonists in this recruitment assay."
+  },
+  {
+    "id": "SF1_Antagonist",
+    "summary": "This label denotes compounds that act as antagonists of Steroidogenic factor 1 (SF1; gene NR5A1, class NR), identified via a co-factor recruitment assay using TR-FRET. A positive call indicates inhibition of co-factor recruitment to SF1, consistent with antagonist activity against this target."
+  }
+]

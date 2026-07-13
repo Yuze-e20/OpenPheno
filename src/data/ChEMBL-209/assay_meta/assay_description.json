@@ -1,0 +1,838 @@
+[
+  {
+    "id": "Assay_1",
+    "summary": "Assay evaluates inhibition of Plasmodium falciparum 3D7 (drug-susceptible) proliferation in an erythrocyte-based infection assay. Organism: malaria parasite; method: infected red blood cell culture; readout: parasite growth/proliferation inhibition; goal: screen compounds for antimalarial activity."
+  },
+  {
+    "id": "Assay_10",
+    "summary": "Confirmatory quantitative high-throughput screening counterscreen targeting RORγ transcriptional inhibition. Uses VP16-driven transactivation reporter in a cell-based format to detect non-specific transcriptional suppression. Readout quantifies reporter activity; organism not specified. Goal: validate RORγ inhibitor specificity by excluding VP16-mediated general transcriptional inhibitors."
+  },
+  {
+    "id": "Assay_100",
+    "summary": "Confirmatory cell-based growth inhibition assay in human NCI-H460 non-small cell lung cancer line, targeting tumor cell proliferation. Organism: Homo sapiens. Method: in vitro cell culture with viability/proliferation readout (percent growth inhibition). Goal: confirm anticancer activity against NCI-H460."
+  },
+  {
+    "id": "Assay_101",
+    "summary": "Confirmatory PUBCHEM/NCI human tumor cell line growth inhibition assay using UACC-62 melanoma cells (Homo sapiens). In vitro cell culture measured cell growth/viability readouts as percent inhibition to assess anti-proliferative activity. Goal: confirm inhibitory effects of compounds on UACC-62 growth in a standardized cytotoxicity assay."
+  },
+  {
+    "id": "Assay_102",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing compound effects on CAKI-1 human renal carcinoma cells. Assay type: cell growth/viability inhibition; organism: Homo sapiens. Method: cell line-based screening; readout: percent growth inhibition. Goal: validate antiproliferative activity against CAKI-1 within the PUBCHEM_BIOASSAY framework."
+  },
+  {
+    "id": "Assay_103",
+    "summary": "Confirmatory in vitro NCI human tumor cell line growth inhibition assay targeting proliferation of MDA-MB-435 human breast cancer cells. Organism: Homo sapiens. Method: cell-based viability/growth measurement via percent inhibition relative to controls. Readout: growth inhibition. Goal: confirm compound cytotoxicity/antiproliferative activity against this line."
+  },
+  {
+    "id": "Assay_104",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay on SF-295 (central nervous system) cells. Organism: human. Target: SF-295 proliferation. Method: cell-based growth inhibition measurement. Readout: percent inhibition/viability of SF-295 cells. Goal: confirm anti-proliferative activity of test compounds against this CNS tumor line."
+  },
+  {
+    "id": "Assay_105",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing compound effects on human IGROV1 ovarian cancer cells. Organism: Homo sapiens. Method: cell-based proliferation assay. Readout: percent growth/viability inhibition. Goal: confirm antiproliferative activity against IGROV1, quantifying tumor cell growth suppression under standardized NCI conditions."
+  },
+  {
+    "id": "Assay_106",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay evaluating antiproliferative activity of compounds against the HS 578T human breast cancer cell line. Organism: Homo sapiens. Method: in vitro cell culture, NCI screen. Readout: percent growth inhibition/cell viability. Goal: confirm activity against HS 578T."
+  },
+  {
+    "id": "Assay_107",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay targeting proliferation of the human 786-0 renal carcinoma cell line. Cell-based method measures growth inhibition in cultured Homo sapiens cells after compound treatment, readout as percent growth inhibition relative to controls; goal is to confirm anticancer activity."
+  },
+  {
+    "id": "Assay_108",
+    "summary": "Confirmatory, cell-based NCI human tumor cell line growth inhibition assay on UACC-257 melanoma cells (Homo sapiens). In vitro culture exposed to test compounds; readout is tumor cell growth suppression/viability reduction. Goal: confirm compound potency against UACC-257 by measuring growth inhibition."
+  },
+  {
+    "id": "Assay_109",
+    "summary": "PubChem BioAssay, confirmatory NCI human tumor cell line growth inhibition assay evaluating compounds against the human CCRF-CEM leukemia cell line. Organism: Homo sapiens. Assay type: cell-based antiproliferative/cytotoxicity screen. Method: growth inhibition measurement; readout: percent growth inhibition/viability. Goal: confirm compound activity by quantifying inhibition of CCRF-CEM cell growth."
+  },
+  {
+    "id": "Assay_11",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) targeting aldehyde dehydrogenase 1 (ALDH1A1), organism unspecified. Method: enzyme activity-based inhibition assay; readout: decreased ALDH1A1 activity. Goal: identify inhibitors and validate hits; related to PubChem assay 1030 (qHTS validation). Specific durations, dosages, and timepoints are not provided."
+  },
+  {
+    "id": "Assay_110",
+    "summary": "Confirmatory cell-based growth inhibition assay targeting human DLD-1 colon carcinoma cells (Homo sapiens). Using the NCI human tumor cell line protocol, compounds are evaluated for antiproliferative effects, with readout as percent growth inhibition/viability. Goal: confirm cytotoxic/antitumor activity in this specific cell line."
+  },
+  {
+    "id": "Assay_111",
+    "summary": "Confirmatory human cell-based phenotypic assay (PubChem BioAssay) assessing growth inhibition of the NCI-H226 non-small cell lung carcinoma line. Organism: Homo sapiens. Method: in vitro tumor cell line growth inhibition. Readout: percent growth/viability inhibition. Goal: confirm anti-proliferative/cytotoxic activity of test compounds against NCI-H226."
+  },
+  {
+    "id": "Assay_112",
+    "summary": "Confirmatory in vitro growth inhibition assay targeting HT29 human colon cancer cell line proliferation. Organism: Homo sapiens. NCI human tumor cell line assay. Method: cell-based culture. Readout: percent growth/viability inhibition. Goal: confirm compound cytotoxicity/antiproliferative activity against HT29 tumor cells."
+  },
+  {
+    "id": "Assay_113",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay using SK-MEL-28 melanoma cells (Homo sapiens). Cell-based method assesses compound-induced cytotoxicity and proliferation suppression, read out as percent growth inhibition/viability. Goal is to confirm anti-tumor activity and inhibitory potency against human melanoma in this specific line."
+  },
+  {
+    "id": "Assay_114",
+    "summary": "Human RXF 393 renal carcinoma cells were used in the NCI tumor cell line growth inhibition assay (confirmatory). This in vitro cell-based assay measures compound-induced growth inhibition/antiproliferative effects as the readout. Goal: confirm activity against a human renal cancer line. Organism: Homo sapiens; assay type: cytotoxicity/proliferation inhibition."
+  },
+  {
+    "id": "Assay_115",
+    "summary": "Confirmatory cell-based growth inhibition assay in human COLO 205 colon carcinoma cells (NCI). Organism: Homo sapiens. Assay evaluates anti-proliferative/cytotoxic effects of test compounds using tumor cell culture, with readout as percent growth inhibition. Goal: confirm activity against COLO 205 in the NCI human tumor line assay."
+  },
+  {
+    "id": "Assay_116",
+    "summary": "Confirmatory luminescence reporter assay evaluating dose-response of chemical inhibitors of B-cell antigen receptor (BCR)-induced NF-κB activation in 697B cells. The method measures luminescent readouts across concentration series to validate uHTS hits, quantifying inhibition potency and efficacy; related PubChem AIDs: 435022, 435025, 465."
+  },
+  {
+    "id": "Assay_117",
+    "summary": "Confirmatory dose-response TR-FRET assay evaluating inhibition of UBC13-mediated polyubiquitin chain formation, validating uHTS hits by measuring TR-FRET signal changes across serial concentrations. Organism not specified. Goal: identify UBC13 polyubiquitin inhibitors. Related PubChem assays: AID485273, AID485343, AID493182."
+  },
+  {
+    "id": "Assay_118",
+    "summary": "Dose-response confirmatory assay evaluating inhibitors of Sentrin-specific protease 8 (SENP8) using a luminescent readout. Conducted to confirm hits from uHTS across multiple concentrations, measuring luminescence as activity. Assay type: confirmatory. Method: luminescence-based enzymatic assay. Related PubChem assays: AID2540, AID2575, AID2582, AID434986."
+  },
+  {
+    "id": "Assay_119",
+    "summary": "Confirmatory counterscreen assessing XBP1 DNA response (DR) pathway activity to control for CHOP (DDIT3) involvement. Reporter-based assay; organism and conditions not specified. Readout: transcriptional reporter signal. Goal: discriminate compounds affecting XBP1 DR independently of CHOP. Related PubChem assays: AID2732, AID493217."
+  },
+  {
+    "id": "Assay_12",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) cell-based assay in Drosophila melanogaster S3 cells to identify modulators of lipid storage. Method: phenotypic measurement of intracellular lipid accumulation using concentration-response readouts. Goal: validate compounds that alter lipid metabolism and cellular lipid storage."
+  },
+  {
+    "id": "Assay_120",
+    "summary": "Confirmatory dose-response assay evaluating selectivity of uHTS-identified chemical inhibitors targeting B-cell antigen receptor-induced NF-κB activation in human Jurkat cells. Luminescence readout measures NF-κB pathway activity across compound concentrations to validate and profile inhibitory potency/selectivity. Related PubChem assays: AID435022, AID435025, AID465."
+  },
+  {
+    "id": "Assay_121",
+    "summary": "uHTS cell-based fluorescence cytotoxicity counterscreen, confirmatory, targeting NOD1 inhibitor hit set. Organism unspecified. Method: fluorescence viability readout measuring cell death/toxicity. Goal: identify and flag cytotoxic compounds among NOD1 pathway inhibitors to remove non-specific toxic hits. No dose or time parameters provided."
+  },
+  {
+    "id": "Assay_122",
+    "summary": "Confirmatory ultra-high-throughput luminescence assay targeting NOD2, using muramyl dipeptide (MDP)-treated cultured cells to quantify NOD2 pathway activity. The method screens compounds for NOD2 inhibition, with luminescent readouts, to identify inhibitors. Organism unspecified. Related PubChem assays: AID1566, AID1579, AID1849, AID2260, AID2335, AID2469, AID2503, AID2800."
+  },
+  {
+    "id": "Assay_123",
+    "summary": "Confirmatory high-throughput luminescent biochemical assay targeting placental alkaline phosphatase to validate chemical inhibitors. Method detects phosphatase activity via luminescence readout; decreased signal indicates inhibition. Objective: confirm hits from prior PubChem screens (AID1577, AID518, AID690) and prioritize hit selection under standardized conditions."
+  },
+  {
+    "id": "Assay_124",
+    "summary": "Confirmatory, dose-response primary assay assessing CHOP (DDIT3) modulation to validate prior hits in PubChem. Compounds were tested across multiple concentrations to generate dose-response curves; organism, method, and readout modality are unspecified. Related depositor-defined assays include AID2732 and AID493217."
+  },
+  {
+    "id": "Assay_125",
+    "summary": "Dose-response confirmatory assay evaluating uHTS-identified chemical inhibitors of T-cell receptor–induced NF‑κB activation in Jurkat human T-cell leukemia cells. Luminescence reporter readout quantifies NF‑κB activity across multiple concentrations. Goal: confirm and characterize inhibitory potency and efficacy. Assay class: confirmatory; related PubChem AIDs: 435003, 435012, 465."
+  },
+  {
+    "id": "Assay_126",
+    "summary": "Confirmatory dose-response luminescence assay assessing selectivity of uHTS-identified chemical inhibitors of T-cell antigen receptor-induced NF-κB activation in the 697B cell line. Compounds were tested across concentrations to quantify inhibition; luminescent readouts captured NF-κB pathway activity to evaluate selective suppression of TCR-stimulated signaling."
+  },
+  {
+    "id": "Assay_127",
+    "summary": "Confirmatory assay investigating the physiology of non-replicating, drug-tolerant Mycobacterium tuberculosis. Organism: M. tuberculosis. Goal: elucidate mechanisms of tolerance under non-replicating conditions and validate prior findings. Method and readout not specified. Related PubChem assays: AID488929, AID489018, AID489025, AID492952, AID492998."
+  },
+  {
+    "id": "Assay_128",
+    "summary": "Confirmatory dose-response orthogonal kinetic enzyme assay targeting Plasmodium falciparum glucose-6-phosphate dehydrogenase (G6PD). Method: ultra-high-throughput screening with direct NADPH detection readout to quantify enzyme activity. Goal: validate small-molecule inhibitors across concentrations and kinetics. Related PubChem assays: AID504690 and AID504696."
+  },
+  {
+    "id": "Assay_129",
+    "summary": "Confirmatory dose-response assay validating uHTS hits: small-molecule modulators of myocardial damage induced by 2-deoxy-glucose (2-DG). Biological target and organism not specified. Method: concentration titration of compounds; readout type unspecified. Goal: confirm activity by assessing potency and efficacy across doses to modulate 2-DG–induced damage."
+  },
+  {
+    "id": "Assay_13",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase). Biochemical enzymatic inhibition format measuring decreased enzyme activity to validate hits. Organism: bacterial (B. subtilis). Goal: identify and confirm small-molecule inhibitors; readout: enzyme activity change."
+  },
+  {
+    "id": "Assay_130",
+    "summary": "Confirmatory dose-response assay validating uHTS-identified small molecules that modulate myocardial damage. Goal: assess potency across concentrations to confirm activity. Biological target: myocardial injury phenotype; assay type: confirmatory dose–response. Organism and method unspecified; readout type not detailed; duration/timepoints not provided."
+  },
+  {
+    "id": "Assay_131",
+    "summary": "Confirmatory dose-response assay evaluating small-molecule antagonists targeting the corticotropin-releasing factor (CRF) binding protein–CRF-R2 receptor complex. Derived from uHTS hits, compounds are tested across graded concentrations to confirm antagonism and potency. Organism, method, and readout type are not specified; goal is hit validation."
+  },
+  {
+    "id": "Assay_132",
+    "summary": "Confirmatory PubChem BioAssay evaluating mitochondrial permeability transition pore (mPTP) inhibitor hits from ultra–high-throughput screening by dose–response in a fluorescent-based counterscreen. Assay type: confirmatory; method: fluorescence; readout: fluorescence intensity. Organism unspecified. Goal: validate and prioritize uHTS hits and assess specificity/false positives."
+  },
+  {
+    "id": "Assay_133",
+    "summary": "PubChem BioAssay confirmatory dose-response absorbance assay targeting the mitochondrial permeability transition pore (MPTP) to validate ultra-high-throughput screening (uHTS) inhibitor hits. Organism not specified. Readout: absorbance quantifying inhibition across concentrations; goal is potency confirmation and characterization of MPTP inhibition. Specific dosage, duration, and timepoints not reported."
+  },
+  {
+    "id": "Assay_134",
+    "summary": "Confirmatory cell-based assay in human HeLa cells quantifying increased 4N DNA content (G2/M accumulation) to derive IC50 values. DNA content measured via quantitative staining-based analysis; dose–response assessed. Goal: confirm compounds that elevate 4N population, indicating cell-cycle arrest or polyploidy."
+  },
+  {
+    "id": "Assay_135",
+    "summary": "Confirmatory cell-based assay in Mus musculus C2C12 myoblasts conditioned with WNT3A, measuring alkaline phosphatase activity as readout to assess compound effects. Goal: quantify potency (IC50) for modulation of WNT3A-induced alkaline phosphatase stimulation. Assay type: PubChem BioAssay; target pathway: WNT signaling."
+  },
+  {
+    "id": "Assay_136",
+    "summary": "Confirmatory PubChem BioAssay assessing HT-29 (human colorectal adenocarcinoma) cell viability using CellTiter-Glo luminescent ATP quantification to determine compound IC50. Assay type: cell viability. Organism: Homo sapiens cell line. Method: luminescence. Readout: ATP-dependent signal intensity. Goal: quantify potency reducing viability."
+  },
+  {
+    "id": "Assay_137",
+    "summary": "Confirmatory cell-based assay measuring human DLD-1 colorectal carcinoma cell viability using the CellTiter-Glo luminescent ATP assay to determine compound IC50 values. Organism: Homo sapiens. Assay type: viability/cytotoxicity. Method: luminescence. Readout: IC50 from ATP signal. Goal: confirm cytotoxic potency against DLD-1."
+  },
+  {
+    "id": "Assay_138",
+    "summary": "Confirmatory, phenotypic cell-based assay in human HeLa (Homo sapiens) cells measuring cytotoxicity via decreased cell count. Compounds were tested in dose–response to determine IC50 values; readout is reduced cell numbers. Goal: quantify potency of agents lowering HeLa viability; no specific molecular target specified."
+  },
+  {
+    "id": "Assay_139",
+    "summary": "Confirmatory PubChem BioAssay assessing cytotoxicity against HCT116 human colorectal carcinoma cells (Homo sapiens). Cell-based viability measured via CellTiter-Glo luminescent ATP assay, with luminescence readout used to calculate IC50 values. Goal: confirm compound potency and effects on cell viability in vitro in HCT116."
+  },
+  {
+    "id": "Assay_14",
+    "summary": "Confirmatory qHTS assay targeting inositol monophosphatase (IMPase) to identify cell-membrane-permeable inhibitors, using lithium potentiation. Organism unspecified. Method: quantitative high-throughput screening; readout not specified. Goal: discover IMPase inhibitors effective in cells, potentiated by lithium; related PubChem assay: 901."
+  },
+  {
+    "id": "Assay_140",
+    "summary": "Confirmatory PubChem BioAssay evaluating human SW480 colorectal adenocarcinoma cell viability using CellTiter-Glo. Dose-response measurements generate IC50 values from luminescent ATP readouts, quantifying compound cytotoxic potency in Homo sapiens cells. Goal is to confirm decreased viability effects and rank actives by IC50."
+  },
+  {
+    "id": "Assay_141",
+    "summary": "Confirmatory PubChem BioAssay evaluating compound cytotoxicity against the human SNU-C1 cell line via CellTiter-Glo viability assay. Luminescent ATP detection quantifies cell viability to derive IC50 values. Organism: Homo sapiens. Goal: confirm antiproliferative activity and potency. Readout: luminescence-based viability/IC50."
+  },
+  {
+    "id": "Assay_142",
+    "summary": "Confirmatory cell-based assay measuring anti-angiogenic activity in VEGF-stimulated ADSC/ECFC co-culture. Compounds are tested for decreasing CD31-stained tube area, with IC50 determination. Method: endothelial tube formation with CD31 immunostaining; readout: image-based tube area. Goal: quantify inhibitors of VEGF-driven angiogenesis."
+  },
+  {
+    "id": "Assay_143",
+    "summary": "Confirmatory PubChem BioAssay assessing cellular viability in human RKO (Homo sapiens colorectal carcinoma) cells via CellTiter-Glo. Luminescent ATP quantification generates dose–response curves to compute IC50 values. Goal: confirm compound cytotoxicity/potency against RKO; assay type: cell viability, readout: luminescence; incubation details not specified."
+  },
+  {
+    "id": "Assay_144",
+    "summary": "Confirmatory PubChem BioAssay evaluating human Colo320 colon cancer cell viability via CellTiter-Glo luminescent ATP assay. Dose-response testing yields IC50 values, quantifying cytotoxicity. Assay type: cell-based viability; organism: Homo sapiens; method: CellTiter-Glo; readout: luminescence. Goal: confirm compound potency reducing Colo320 viability."
+  },
+  {
+    "id": "Assay_145",
+    "summary": "Confirmatory, cell-based PubChem BioAssay in human HeLa cells quantifying compounds that increase the fraction of cells with 2N DNA content. Phenotypic assay; organism Homo sapiens. Readout is IC50 for elevating 2N population from DNA-content measurements; goal is to confirm hits that elevate the G1/diploid fraction."
+  },
+  {
+    "id": "Assay_146",
+    "summary": "PubChem BioAssay confirmatory, cell-based phenotypic assay in HeLa (human) cells assessing increased chromatin condensation. Biological target: chromatin condensation phenotype. Measures compound potency via IC50 readout. Organism: Homo sapiens (HeLa). Goal: confirm and quantify agents that induce chromatin condensation."
+  },
+  {
+    "id": "Assay_147",
+    "summary": "Quantitative high-throughput screening (qHTS) confirmatory assay targeting the JMJD2A Tudor domain, designed to identify and confirm small-molecule inhibitors of Tudor-mediated binding. Organism not specified. Method and readout unspecified; durations, doses, and timepoints not reported. Related PubChem depositor-defined assay AID504402."
+  },
+  {
+    "id": "Assay_148",
+    "summary": "Confirmatory, cell-based reporter assay in human HEK293T cells expressing luciferase-tagged ELG1 to validate small molecules that induce genotoxicity. Luminescence readout reports ELG1-linked response to DNA damage. Organism: Homo sapiens. Method: luciferase reporter quantification. Goal: validate genotoxicity inducers; related PubChem assays AID493143 and AID504466."
+  },
+  {
+    "id": "Assay_149",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) validation targeting Nrf2 inhibitors. Organism not specified. Method: multi-concentration dose-response screening. Readout: Nrf2 pathway activity inhibition. Goal: validate and confirm inhibitors from prior depositor screens (AID493163, AID504444, AID504648) via concentration-response profiling."
+  },
+  {
+    "id": "Assay_15",
+    "summary": "Quantitative high-throughput screening (confirmatory) targeting influenza virus non-structural protein 1 (NS1). Assay goal: confirm inhibitors of NS1 function. Organism: influenza virus (unspecified strain). Method: qHTS; readout: functional inhibition of NS1 activity. No specific durations, dosages, or timepoints provided."
+  },
+  {
+    "id": "Assay_150",
+    "summary": "Quantitative high-throughput screening (qHTS) confirmatory assay targeting GCN5L2 to identify small-molecule inhibitors. Method: qHTS; organism not specified; readout type not described. Goal: confirm inhibitory activity across concentration series. Related PubChem depositor-defined assay: AID504398. Specific experimental conditions (dose, duration, timepoints) were not provided."
+  },
+  {
+    "id": "Assay_151",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) cell-based assay targeting p53 re-activation, employing a luciferase (Luc) transcriptional reporter to measure luminescence as readout across multiple concentrations. Goal: identify small-molecule p53 re-activators. Organism unspecified. Assay aligns with depositor-defined PubChem AID504709."
+  },
+  {
+    "id": "Assay_152",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) validation assay targeting the MPP8 chromodomain, assessing inhibitors that disrupt its binding to methylated histone tails. The method measures protein-peptide interaction inhibition as the readout, aiming to validate and prioritize compounds that block MPP8–histone methyl-mark interactions."
+  },
+  {
+    "id": "Assay_153",
+    "summary": "Confirmatory qHTS targeting mammalian selenoprotein thioredoxin reductase 1 (TrxR1), using an in vitro biochemical enzymatic inhibition assay with concentration-response profiling to quantify activity changes. Organism: mammalian. Readout: enzyme activity-based signal. Goal: confirm and prioritize TrxR1 inhibitors; related PubChem assays: AID488771, AID488772."
+  },
+  {
+    "id": "Assay_154",
+    "summary": "Confirmatory qHTS in human HEK293T cells expressing luciferase-tagged ELG1 to identify small molecules that induce genotoxicity. Method: reporter-based luminescence readout of ELG1-luciferase. Goal: validate genotoxic hits; organism: human cell line; related PubChem assays: AID493106 and AID493143."
+  },
+  {
+    "id": "Assay_155",
+    "summary": "Confirmatory quantitative high-throughput screening assay targeting histone lysine methyltransferase G9a. Organism not specified. Method: biochemical enzymatic inhibition qHTS across multiple concentrations. Readout: methyltransferase activity reduction. Goal: confirm and profile inhibitors of G9a; related PubChem assay AID504404."
+  },
+  {
+    "id": "Assay_156",
+    "summary": "Confirmatory qHTS validation assay targeting the HP1-beta chromodomain, assessing inhibitors of its interactions with methylated histone tails. Organism not specified. Method: binding interaction assay; readout: inhibition of chromodomain-histone tail binding signal. Goal: validate and confirm hits (see related PubChem AID488962)."
+  },
+  {
+    "id": "Assay_157",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting the bromodomain protein BAZ2B to identify small-molecule inhibitors. Organism not specified. Method: biochemical inhibition assessment across concentration series. Readout: dose-response activity measurements. Goal: validate and confirm inhibitors from PubChem assay AID504391."
+  },
+  {
+    "id": "Assay_158",
+    "summary": "Confirmatory qHTS assay targeting human 15-lipoxygenase-2 (15-hLO-2) to identify small-molecule inhibitors. Organism: Homo sapiens. Assay type: quantitative high-throughput screening. Method and readout not specified; dosing regimen, duration, and timepoints not reported. Goal: confirm inhibitory activity; related PubChem assays: AID2312, AID2537, AID2702."
+  },
+  {
+    "id": "Assay_159",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting the vitamin D receptor (VDR) to identify inhibitors. Organism not specified. Method uses concentration-response qHTS across titration series; readout type not reported. Goal: confirm VDR inhibitory activity for candidate compounds from prior screening (related AID504855)."
+  },
+  {
+    "id": "Assay_16",
+    "summary": "Quantitative high-throughput screening confirmatory assay targeting tau protein fibril formation. Fluorescence polarization method measures changes in polarization signal as readout to assess aggregation inhibition across concentration-response. Goal is to identify and confirm small-molecule inhibitors of tau fibrillization; organism not specified; related to PubChem assay 596."
+  },
+  {
+    "id": "Assay_160",
+    "summary": "Confirmatory qHTS validation assay targeting ATXN gene expression, aiming to identify inhibitors. Conducted in a cell-based system; organism and method not specified. Readout quantifies ATXN expression levels to confirm hits from AID588349 and AID588380. Goal: validate suppressors of ATXN expression."
+  },
+  {
+    "id": "Assay_161",
+    "summary": "Confirmatory-class primary qHTS targeting the malarial parasite plastid to identify delayed-death inhibitors. Organism: Plasmodium. Cell-based phenotypic assay with 96-hour incubation; readout measures parasite growth/viability after delayed effects. Goal: discover compounds disrupting plastid function that cause delayed parasite death."
+  },
+  {
+    "id": "Assay_162",
+    "summary": "Confirmatory high-throughput biochemical binding assay targeting HP1-beta chromodomain interaction with methylated histone tails; goal is to identify small-molecule inhibitors that disrupt binding. Method: in vitro interaction assay with signal-based readout. Organism: not specified. Related PubChem assay AID488962."
+  },
+  {
+    "id": "Assay_163",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting DNA polymerase iota to identify inhibitors. Assay class: confirmatory; related PubChem AID588623. Organism and detection method/readout not specified. Goal: confirm and quantify inhibitory activity across concentrations to validate hits from prior screening."
+  },
+  {
+    "id": "Assay_164",
+    "summary": "Confirmatory qHTS assay targeting RanGTP-regulated Importin-β cargo complex (Rango–Importin-β), screening multiple concentrations to identify inhibitors of RanGTP-induced complex dissociation. Organism not specified. Method quantifies complex dissociation as the readout. Goal: validate compounds that block RanGTP-driven Rango–Importin-β dissociation (related PubChem AID540262)."
+  },
+  {
+    "id": "Assay_165",
+    "summary": "Quantitative high-throughput screening confirmatory enzymatic assay targeting mammalian selenoprotein thioredoxin reductase 1 (TrxR1). The method measures TrxR1 activity to assess inhibitory effects, using qHTS concentration-response profiling. Goal: confirm and identify inhibitors of TrxR1. Related PubChem depositor assay: AID488771."
+  },
+  {
+    "id": "Assay_166",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) biochemical assay targeting human Flap endonuclease 1 (FEN1), organism: Homo sapiens. Method: in vitro enzyme inhibition assessment; readout: FEN1 enzymatic activity. Goal: identify and confirm inhibitors of FEN1 based on related PubChem AID488813 findings."
+  },
+  {
+    "id": "Assay_167",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Regulator of G Protein Signaling 4 (RGS4) to identify small-molecule inhibitors. Organism unspecified. Method and readout details not provided; goal is validation of inhibitory activity across concentration ranges, linked to PubChem AID504856."
+  },
+  {
+    "id": "Assay_168",
+    "summary": "Confirmatory qHTS cytotoxicity counterscreen for TGF-β pathway inhibitor candidates. Organism/cell line unspecified. Method: quantitative high-throughput screening; readout: cell viability/cytotoxicity. Goal: identify and exclude compounds causing non-specific cytotoxicity rather than selective TGF-β inhibition. Related PubChem assays: AID588855, AID588860."
+  },
+  {
+    "id": "Assay_169",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting DNA polymerase kappa to identify and confirm inhibitors. Organism not specified. Method: concentration-response qHTS; readout: inhibitory activity/potency across multiple concentrations. Goal: validate polymerase kappa inhibition. Related PubChem assay: AID588638."
+  },
+  {
+    "id": "Assay_17",
+    "summary": "Confirmatory qHTS binding assay targeting the Menin–MLL protein–protein interaction in MLL-related leukemias. Competes a Texas Red–labeled MLL-derived mutant peptide with test compounds; decreased fluorescence indicates displacement. Goal: identify small-molecule inhibitors disrupting Menin–MLL binding. Assay type: competitive fluorescence; readout: Texas Red signal."
+  },
+  {
+    "id": "Assay_170",
+    "summary": "Quantitative high-throughput screening (confirmatory) targeting urokinase-type plasminogen activator (uPA) generation on cell surfaces, using a cell-based method to quantify cell-surface uPA levels across concentration series. Organism not specified. Goal: confirm and identify inhibitors of cell-surface uPA generation (related PubChem AID493178)."
+  },
+  {
+    "id": "Assay_171",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) to identify delayed-death inhibitors targeting the malarial parasite plastid. Parasites were incubated with compounds for 48 hours, generating concentration–response data with a viability/growth readout. Goal: discover plastid-directed antimalarials. Related PubChem assays: AID488752, AID488774, AID504848, AID504850."
+  },
+  {
+    "id": "Assay_172",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) to identify inhibitors of TGF-β signaling. Assay type: qHTS, multi-concentration profiling; organism not specified; method: small-molecule screening; readout type not provided. Goal: confirm and characterize TGF-β pathway inhibition across related assays (AID588856, AID588860)."
+  },
+  {
+    "id": "Assay_173",
+    "summary": "Confirmatory quantitative high-throughput screening (pilot qHTS) targeting the USP1/UAF1 deubiquitinase complex to identify small-molecule inhibitors. Assay class: confirmatory. Method: multi-concentration qHTS generating concentration–response inhibition. Organism not specified. Readout: enzymatic inhibition. Goal: validate hits; related PubChem assay AID504878."
+  },
+  {
+    "id": "Assay_174",
+    "summary": "Confirmatory cell-based reporter assay in S16 rat Schwann cells assessing PMP22 gene regulation. A PMP22 intronic regulatory element drives firefly luciferase; compounds are evaluated for modulation. Method: luciferase reporter assay; readout: luminescence. Goal: confirm small-molecule regulators of PMP22 intronic element activity relevant to peripheral myelination."
+  },
+  {
+    "id": "Assay_175",
+    "summary": "Confirmatory qHTS targeting mutant isocitrate dehydrogenase 1 (IDH1) to identify inhibitors. Assay type: quantitative high-throughput screening. Organism, method, duration, dosage, and readout type not specified. Goal: confirm inhibitory activity against mutant IDH1 across a compound concentration series."
+  },
+  {
+    "id": "Assay_176",
+    "summary": "Confirmatory PubChem BioAssay employing quantitative high-throughput screening to profile small molecules that induce DNA re-replication in MCF10A human normal breast epithelial cells. Organism: Homo sapiens. Method: cell-based qHTS; readout: quantitative induction of DNA re-replication. Goal: confirm and identify active compounds causing re-replication in normal cells."
+  },
+  {
+    "id": "Assay_177",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) cytotoxicity assay targeting GLP-1 receptor inverse agonists, assessing compound-induced cytotoxicity in a cell-based format. Organism not specified. Readout: cell viability/cytotoxicity signal. Goal: triage toxic compounds while confirming GLP-1R inverse agonist candidates."
+  },
+  {
+    "id": "Assay_178",
+    "summary": "PubChem confirmatory quantitative high-throughput screening (qHTS) assay targeting ClpP protease, designed to validate small-molecule activators. Biological target: ClpP (caseinolytic protease). Organism, detection method, and readout modality not specified. Goal: confirm and profile activation of ClpP in qHTS format."
+  },
+  {
+    "id": "Assay_179",
+    "summary": "PubChem BioAssay confirmatory quantitative high-throughput screening (qHTS) targeting glutaminase (GLS) to identify and validate small-molecule inhibitors. Organism not specified. Method: enzyme inhibition assay with concentration–response profiling; readout based on GLS enzymatic activity signal. Goal: confirm inhibitory activity across titrations and refine potency rankings."
+  },
+  {
+    "id": "Assay_18",
+    "summary": "Confirmatory qHTS biochemical assay targeting bacterial AmpC beta-lactamase, using detergent to suppress aggregation. Multi-concentration concentration–response profiling measured enzyme activity inhibition to validate hits and characterize potency/efficacy. Goal: identify specific inhibitors and distinguish promiscuous compounds; related to prior detergent/no-detergent primary screens and cuvette-based confirmations."
+  },
+  {
+    "id": "Assay_180",
+    "summary": "Confirmatory PubChem BioAssay using quantitative high-throughput screening (qHTS) to evaluate inhibitors of Hepatitis C virus (HCV). The assay screens compounds for antiviral activity against HCV, aiming to confirm and prioritize hits. Readout quantifies HCV inhibition in a qHTS format; organism is HCV. No specific timepoints or dosages reported."
+  },
+  {
+    "id": "Assay_181",
+    "summary": "Confirmatory high-throughput screening assay targeting the human D2 dopamine receptor (DRD2), using HTRF to validate allosteric antagonists. Organism: Homo sapiens. Method: homogeneous time-resolved fluorescence readout assessing inhibition consistent with allosteric antagonism. Goal: confirm and prioritize hits from prior HTS."
+  },
+  {
+    "id": "Assay_182",
+    "summary": "Confirmatory PubChem BioAssay: a cell-based quantitative high-throughput screen (qHTS) assessing induction of DNA re-replication in human SW480 colon adenocarcinoma cells. Organism: Homo sapiens. Biological target: DNA replication machinery/process. Method: phenotypic cellular assay. Readout: DNA re-replication phenotype. Goal: identify small molecules that trigger aberrant re-replication."
+  },
+  {
+    "id": "Assay_183",
+    "summary": "Confirmatory PubChem BioAssay employing quantitative high-throughput screening to identify inhibitors of ATXN (ataxin) gene expression. The goal is validation of compounds that suppress ATXN levels. Biological target: ATXN expression; organism, assay method, duration, dosage, and readout parameters are not specified."
+  },
+  {
+    "id": "Assay_184",
+    "summary": "Confirmatory PubChem qHTS targeting the GLP-1 receptor (GLP1R) to identify inverse agonists using inhibition mode. Organism not specified. Method: quantitative high-throughput concentration-response screening; readout: inhibitory activity signal quantification. Goal: confirm and characterize inverse agonist activity against GLP1R across doses in a confirmatory assay."
+  },
+  {
+    "id": "Assay_185",
+    "summary": "PubChem BioAssay confirmatory quantitative high-throughput screening targeting WRN helicase (Werner syndrome protein), using an in vitro biochemical assay to measure helicase activity inhibition across multiple compound concentrations, generating concentration–response data. Readout quantifies helicase activity inhibition. Goal: validate and identify small-molecule WRN helicase inhibitors."
+  },
+  {
+    "id": "Assay_186",
+    "summary": "PubChem BioAssay confirmatory quantitative high-throughput screening (qHTS) targeting BRCA1 expression. Organism unspecified. Method: small-molecule library screening; readout: BRCA1 expression level to detect activation. Goal: identify small-molecule activators of BRCA1 expression for follow-up validation. No specific durations, dosages, or timepoints provided."
+  },
+  {
+    "id": "Assay_187",
+    "summary": "Confirmatory PubChem BioAssay using quantitative high-throughput screening (qHTS) to identify agonists of gsp, the GNAS/Gsα activating mutation underlying fibrous dysplasia/McCune-Albright syndrome. Assay type: qHTS; method: dose–response screening; organism: not specified; readout: agonist activity; goal: confirm compounds that activate gsp signaling."
+  },
+  {
+    "id": "Assay_188",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting rat pregnane X receptor (rPXR) signaling. Organism: rat. Method: concentration–response qHTS. Readout: pathway activation signal (agonist activity). Goal: confirm and characterize small-molecule activators of rPXR signaling identified in prior screens."
+  },
+  {
+    "id": "Assay_189",
+    "summary": "PubChem BioAssay confirmatory quantitative high-throughput screening (qHTS) targeting HIV-1 Vpr to identify small-molecule inhibitors. Organism: human immunodeficiency virus type 1. Method: qHTS concentration-response profiling; readout: quantitative inhibitory activity. Goal: validate and prioritize Vpr inhibitors."
+  },
+  {
+    "id": "Assay_19",
+    "summary": "Confirmatory quantitative high-throughput screening targeting activation of the NPC1 (Niemann-Pick C1) gene promoter. The goal is to identify small-molecule promoter activators by measuring concentration-response effects on promoter activity. Organism, reporter method, readout modality, exposure durations, and dosages are not specified in the metadata."
+  },
+  {
+    "id": "Assay_190",
+    "summary": "PubChem BioAssay: confirmatory quantitative high-throughput screening (qHTS) targeting retinoid-related orphan receptor gamma (RORγ) signaling to identify small-molecule antagonists. Assay quantifies inhibition of RORγ pathway activity; organism and precise readout modality are not specified. Goal: validate antagonists via concentration-response profiling."
+  },
+  {
+    "id": "Assay_191",
+    "summary": "Confirmatory, cell-based quantitative high-throughput screening targeting human tyrosyl-DNA phosphodiesterase 1 (TDP1). Organism: human cells. Method: qHTS conducted in the absence of camptothecin (CPT). Readout: TDP1 inhibition in cells. Goal: validate and identify inhibitors of TDP1 under CPT-free conditions."
+  },
+  {
+    "id": "Assay_192",
+    "summary": "Biological target: human tyrosyl-DNA phosphodiesterase 1 (TDP1). Assay type: confirmatory, cell-based quantitative high-throughput screening (qHTS). Organism: human cells. Method: compound testing in the presence of camptothecin (CPT). Readout: cell-based qHTS response. Goal: confirm and identify inhibitors of TDP1."
+  },
+  {
+    "id": "Assay_193",
+    "summary": "Confirmatory PubChem BioAssay using quantitative high-throughput screening (qHTS) to assess inhibitors of TAR DNA-binding protein 43 (TDP-43). Goal: confirm TDP-43 inhibition. Organism, duration, dosage, method specifics, and readout type are not specified in the provided metadata."
+  },
+  {
+    "id": "Assay_194",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) PubChem BioAssay targeting alpha-synuclein to identify and confirm small-molecule inhibitors. Biological target: alpha-synuclein; organism not specified; method: qHTS; readout type not specified; goal: confirmation of inhibitory activity; experimental conditions (dose, duration, timepoints) not reported."
+  },
+  {
+    "id": "Assay_195",
+    "summary": "Confirmatory screening assay targeting the USP1/UAF1 deubiquitinase complex to identify and validate inhibitors. Organism not specified. Method and readout type are not detailed in the metadata. Goal: confirm compound activity by measuring reduction in USP1/UAF1 function following an initial primary screen."
+  },
+  {
+    "id": "Assay_196",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting stage-specific inhibition of Vaccinia orthopoxvirus infection, using an mCherry reporter in infected cells. Fluorescent mCherry signal serves as readout to quantify viral replication stages. Goal: identify compounds that inhibit distinct stages of Vaccinia virus lifecycle."
+  },
+  {
+    "id": "Assay_197",
+    "summary": "Quantitative high-throughput screening (qHTS) assay targeting cAMP-regulated guanine nucleotide exchange factor 2 (EPAC2/RapGEF4) to identify antagonists. Designated a primary screen but categorized as confirmatory. Organism not specified. Method: concentration–response qHTS. Readout type not specified; outcome assesses EPAC2 inhibition to prioritize antagonistic compounds."
+  },
+  {
+    "id": "Assay_198",
+    "summary": "Quantitative high-throughput screening (qHTS) protein–protein interaction biochemical assay, confirmatory class, targeting the Plasmodium AMA1–RON complex. Readout: concentration–response inhibition signal. Goal: primary screen to discover antimalarial lead compounds by disrupting AMA1–RON interaction implicated in parasite invasion."
+  },
+  {
+    "id": "Assay_199",
+    "summary": "Confirmatory PubChem BioAssay using quantitative high-throughput screening to assess inhibitors of Lassa virus binding or cellular entry. Cell-based assay targeting viral entry machinery; organism: Lassa virus. Method: qHTS; readout: cell binding/entry inhibition. Goal: confirm compounds that block Lassa virus cell entry."
+  },
+  {
+    "id": "Assay_2",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Lamin A (LMNA) pre-mRNA splicing. Organism unspecified. Method not detailed. Readout: change in splicing state/modulation. Goal: confirm and quantify small-molecule modulators across multiple concentrations to affect Lamin A splicing."
+  },
+  {
+    "id": "Assay_20",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting RORγ (RORC) transcriptional activity, employing a cell-based reporter readout to quantify transcriptional inhibition across concentration series. Goal: identify and confirm small-molecule inhibitors of RORγ-driven transcriptional signaling; assay captures concentration–response potency via reporter signal."
+  },
+  {
+    "id": "Assay_200",
+    "summary": "Confirmatory PubChem BioAssay evaluating ED40515 IL2-independent adult T-cell leukemia cell proliferation. Assay type: cell-based proliferation; method/readout: growth/viability measurement. Goal: confirm compounds that inhibit proliferation of IL2-independent ATL cells. No specific dosage, duration, or timepoint conditions are provided."
+  },
+  {
+    "id": "Assay_201",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) targeting polo-like kinase 1 (PLK1) polo-box domain (PLK1-PDB/PBD) to identify small-molecule inhibitors. Assay class: confirmatory; primary screen. Organism not specified. Method: qHTS; readout type not specified. Goal: detect PLK1-PBD inhibition across a compound library; specific durations/doses not provided."
+  },
+  {
+    "id": "Assay_202",
+    "summary": "Primary quantitative high-throughput screening (qHTS; assay class: confirmatory) targeting vaccinia orthopoxvirus replication stages, using a Venus fluorescent reporter to monitor viral stage-specific activity. Organism: vaccinia virus. Method: reporter-based cell assay. Readout: Venus fluorescence. Goal: identify and confirm stage-specific small-molecule inhibitors."
+  },
+  {
+    "id": "Assay_203",
+    "summary": "PubChem confirmatory qHTS assay targeting human APE1 (Apurinic/apyrimidinic Endonuclease 1). Goal: identify and validate inhibitors using quantitative concentration‑response screening. Organism: Homo sapiens. Method: qHTS. Readout: inhibition of APE1 endonuclease activity. Specific dosages, durations, and timepoints not disclosed."
+  },
+  {
+    "id": "Assay_204",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) targeting gsp, the etiologic mutation underlying fibrous dysplasia/McCune-Albright syndrome. The assay measures antagonist activity to inhibit gsp-driven signaling; organism not specified. Method: qHTS; readout: antagonist effect. Goal: confirm and profile small-molecule gsp antagonists."
+  },
+  {
+    "id": "Assay_205",
+    "summary": "Confirmatory PubChem qHTS cell-based assay targeting Marburg virus binding/entry into host cells. The method screens compounds for inhibition of viral attachment or entry, with a quantitative concentration-response readout. Organism: Marburg virus. Goal: identify inhibitors that block Marburg virus cell binding or entry."
+  },
+  {
+    "id": "Assay_206",
+    "summary": "PubChem BioAssay confirmatory-class quantitative high-throughput screening (qHTS) primary assay targeting EPAC1 (cAMP-regulated guanine nucleotide exchange factor 3) to discover antagonists. Organism not specified. Method: qHTS; readout type not specified; duration and dosage not provided. Goal: identify inhibitors that antagonize EPAC1 signaling."
+  },
+  {
+    "id": "Assay_207",
+    "summary": "Quantitative high-throughput screening (qHTS) assay targeting cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2, RapGEF4) to identify agonists. PubChem primary screen categorized as confirmatory. Method measures functional activation of EPAC2 across compound concentrations; organism, exposure duration, and specific readout modality not provided."
+  },
+  {
+    "id": "Assay_208",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) PubChem BioAssay aimed at identifying gametocytocidal compounds. Biological target: gametocytes. Assay type: confirmatory qHTS. Method: qHTS screening. Readout: gametocytocidal activity. Goal: confirm and prioritize compounds lethal to gametocytes."
+  },
+  {
+    "id": "Assay_209",
+    "summary": "Confirmatory high-throughput screening assay from PubChem targeting Foot-and-mouth disease virus (FMDV) in infected cell culture. Assay type: cell-based antiviral confirmation. Method: measurement of virus-induced cytopathic effect/replication inhibition. Readout: phenotypic reduction in CPE. Goal: validate and prioritize compounds with reproducible anti-FMDV activity."
+  },
+  {
+    "id": "Assay_21",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting microRNA pathways, specifically miR-21, to identify modulators of miRNAs and inhibitors of miR-21. Method: qHTS concentration–response profiling; organism unspecified. Readout type not specified. Goal: confirm and quantify compound activity against miR-21 regulation across multiple concentrations."
+  },
+  {
+    "id": "Assay_22",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting DNA polymerase beta to evaluate inhibitor activity and validate prior hits. Organism/source not specified. Method and readout not detailed; designed to generate concentration-response data and quantify inhibition for follow-up triage of candidate compounds."
+  },
+  {
+    "id": "Assay_23",
+    "summary": "Assesses inhibition of Plasmodium falciparum 3D7 (drug-susceptible) proliferation using an erythrocyte-based infection assay. Human erythrocytes are infected and exposed to test compounds; parasite growth inhibition vs. control is measured as the readout. Goal is to identify antimalarial agents targeting parasite proliferation; specific dosing and timepoints not provided."
+  },
+  {
+    "id": "Assay_24",
+    "summary": "In vitro erythrocyte-based infection assay assessing inhibition of proliferation of drug-resistant Plasmodium falciparum W2. The method monitors parasite growth within infected erythrocytes; readout is reduced proliferation relative to control. Goal: evaluate antimalarial potency of test compounds against the resistant P. falciparum W2 strain."
+  },
+  {
+    "id": "Assay_25",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Lamin A pre-mRNA splicing. Goal: identify and validate modulators of splicing. Organism, method, duration, dosage, and timepoints not specified; readout measures changes in splicing modulation."
+  },
+  {
+    "id": "Assay_26",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assessing compounds that enhance SMN2 splice variant expression. Biological target: SMN2 mRNA splicing. Method: qHTS; readout: splice variant expression levels. Organism: not specified. Goal: confirm and prioritize enhancers of SMN2 splice variant expression."
+  },
+  {
+    "id": "Assay_27",
+    "summary": "Confirmatory qHTS, cell-based phenotypic assay in Drosophila melanogaster S3 cells to identify modulators of lipid storage. Compounds were tested in concentration-response format. The method assesses cellular lipid accumulation as the readout, with the goal of validating actives that alter lipid storage pathways in a fly cell model."
+  },
+  {
+    "id": "Assay_28",
+    "summary": "Quantitative high-throughput screening (qHTS) confirmatory assay targeting ROR gamma (RORγ) transcriptional activity. Method: concentration–response profiling of compounds to detect inhibition of reporter-driven transcription in a cell-based system. Readout: transcriptional activity signal. Goal: validate inhibitors of RORγ-mediated gene expression. Organism: not specified."
+  },
+  {
+    "id": "Assay_29",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Lamin A (LMNA) pre-mRNA splicing modulators. Organism not specified. Goal: identify compounds that alter Lamin A splicing. Method and readout type not specified in metadata; duration and dosage conditions not provided."
+  },
+  {
+    "id": "Assay_3",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting human Jumonji domain-containing 2E (JMJD2E). Organism: Homo sapiens. Method: qHTS with concentration–response profiling. Readout: inhibition of JMJD2E enzymatic activity. Goal: confirm and characterize JMJD2E inhibitors, assessing potency and efficacy."
+  },
+  {
+    "id": "Assay_30",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting SMN2 pre-mRNA splicing, aiming to identify compounds that enhance SMN2 splice variant expression. The readout measures splice-variant expression levels to confirm enhancer activity and prioritize hits for further validation."
+  },
+  {
+    "id": "Assay_31",
+    "summary": "Cytochrome P450 panel assay (assay class: other) targeting CYP2D6 (p450-cyp2d6) measured compound activity via biochemical enzymatic readout and AC50 from concentration-response curves. Compounds with AC50 <= 10 uM were deemed active. Goal: profile modulators of CYP2D6 within a P450 panel; organism not specified."
+  },
+  {
+    "id": "Assay_32",
+    "summary": "Biochemical cytochrome P450 panel assay measuring compound effects on CYP2C9 activity. Concentration-response generates AC50 potency values; compounds with AC50 <= 10 uM are classified as active. Assay type: other. Readout: activity outcome and AC50. Goal: prioritize modulators/inhibitors of CYP2C9 within a P450 panel."
+  },
+  {
+    "id": "Assay_33",
+    "summary": "Cytochrome P450 panel assay (assay class: other) targeting CYP1A2 (panel member p450-cyp1a2), measuring compound activity by AC50. Compounds with AC50 <= 10 uM are deemed active. Goal: profile CYP1A2 activity/modulation in a panel and classify actives based on potency."
+  },
+  {
+    "id": "Assay_34",
+    "summary": "Assay targets cytochrome P450 CYP2C19 in a cytochrome panel (assay class: other), assessing compound activity via AC50 measurements; compounds with AC50 <= 10 uM are classified active. Organism and method not specified; readout is activity outcome, goal is to profile CYP2C19 modulators within the panel."
+  },
+  {
+    "id": "Assay_35",
+    "summary": "Assay targets cytochrome P450 CYP3A4 in a cytochrome panel assay (other class), evaluating compound activity via AC50 potency. Activity threshold defined as AC50 ≤ 10 µM; compounds meeting this are classified active. Goal is to profile biochemical interaction with CYP3A4; organism unspecified; readout: activity outcome."
+  },
+  {
+    "id": "Assay_36",
+    "summary": "Confirmatory, fluorescence-based cell-free homogeneous secondary screen targeting DnaB intein splicing activity. The method monitors intein-mediated splicing via a fluorescence readout to assess inhibition. Goal: identify small-molecule inhibitors of DnaB-intein splicing. Organism not specified. Related PubChem assays: AID2223, AID489010, AID492950."
+  },
+  {
+    "id": "Assay_37",
+    "summary": "Confirmatory fluorescence cell-free homogeneous secondary screen targeting RecA-intein protein splicing, aiming to identify non-covalent inhibitors. Readout: fluorescence change indicative of splicing inhibition. Organism/source not specified. Method validates hits from related PubChem assays (AID2223, AID489010, AID492950); no dosage or timepoint details provided."
+  },
+  {
+    "id": "Assay_38",
+    "summary": "Confirmatory, cell-based cytotoxicity assay targeting Shn3, using a plate reader to quantify viability via signal intensity. Cherry-picked inhibitor candidates were tested across doses in an unspecified organism cell line. Readout: plate reader cytotoxicity signals. Goal: confirm dose-dependent cytotoxic activity of Shn3 inhibitor candidates."
+  },
+  {
+    "id": "Assay_39",
+    "summary": "Confirmatory PubChem cell-based cytotoxicity assay in A549 human lung carcinoma cells (Homo sapiens), using plate-reader detection. No specific molecular target; evaluates general cell viability. Compounds tested in antagonist dose-response (cherry-pick) format. Readout: plate-reader viability/activity signal. Goal: confirm cytotoxic activity of selected compounds and quantify potency."
+  },
+  {
+    "id": "Assay_4",
+    "summary": "Confirmatory qHTS assay assessing modulators of microRNAs and activators of miR-21. Goal: identify compounds regulating miR-21. Assay type: quantitative high-throughput screening; method and readout type not specified. Organism unspecified. No dosage, timepoint, or duration details provided."
+  },
+  {
+    "id": "Assay_40",
+    "summary": "Confirmatory cell-based cytotoxicity assay targeting PAX8 in human OVCAR8 ovarian carcinoma cells. Inhibitor doses from dry-powder libraries applied in multi-well format; viability quantified by plate reader. Goal: confirm inhibitory activity and PAX8-associated cytotoxicity. Readout: plate-reader viability signal; organism: Homo sapiens."
+  },
+  {
+    "id": "Assay_41",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) cell-based assay targeting Ebola virus entry into host cells, using a ratio-channel signal readout to quantify inhibition across concentration-response. The goal is to identify small molecules that block Ebola virus entry. Organism: Ebola virus; assay: PubChem BioAssay Screen 1."
+  },
+  {
+    "id": "Assay_42",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Ebola virus entry. Compounds evaluated in multi-concentration titrations with a fluorescence blue-channel readout to quantify entry inhibition. Organism: Ebola virus. Method: qHTS. Goal: identify inhibitors that block viral entry. Screen 1; readout: blue-channel signal reduction."
+  },
+  {
+    "id": "Assay_43",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Ebola virus entry. Organism: Ebola virus. Method: Screen 2 blue-channel fluorescence. Assay measures inhibition of viral entry via reduced blue signal. Goal: identify compounds that block Ebola virus entry; readout: fluorescence intensity change."
+  },
+  {
+    "id": "Assay_44",
+    "summary": "Confirmatory qHTS assay targeting Ebola virus entry, aiming to identify small-molecule inhibitors. Screen 2 implemented in a ratio channel format, measuring entry blockade via ratiometric signal. Organism: Ebola virus; method: quantitative high-throughput screening; readout: ratio channel; goal: confirm hits."
+  },
+  {
+    "id": "Assay_45",
+    "summary": "Confirmatory dose-response counterscreen assessing small-molecule activation of the adaptive arm of the Unfolded Protein Response using a cell-based luminescent reporter assay. Ultra-high-throughput format; multiple concentrations tested. Readout: luminescence signal intensity. Organism: not specified. Goal: verify and prioritize UPR activators while filtering false positives."
+  },
+  {
+    "id": "Assay_46",
+    "summary": "Confirmatory dose-response assay evaluating small-molecule activation of the apoptotic arm of the Unfolded Protein Response using a luminescent reporter readout. Organism/cell line not specified. Method: luminescent reporter measurement across multiple concentrations. Goal: validate activators; readout: luminescence intensity. Related assays: AID449763, AID449771."
+  },
+  {
+    "id": "Assay_47",
+    "summary": "Luminescence cell-based confirmatory dose-response retest targeting Heat Shock Factor 1 (HSF1) potentiators. Organism/cell line not specified. Method: luminescence measurement of HSF1-dependent signal across multiple concentrations. Readout: luminescence intensity. Goal: confirm and quantify compound potency and activity, aligned with related PubChem assay AID493224."
+  },
+  {
+    "id": "Assay_48",
+    "summary": "Confirmatory ultra-high-throughput (uHTS) luminescence assay to identify NOD1 inhibitors, measuring NF-κB-mediated luciferase reporter gene activity as a readout of NOD1 modulation. Organism not specified. Method: cell-based luciferase reporter. Readout: luminescence intensity. Goal: prioritize small molecules; related PubChem assays include AID1566, AID1575, AID1849."
+  },
+  {
+    "id": "Assay_49",
+    "summary": "Confirmatory fluorescence cell-based assay assessing inhibitors of fluconazole-resistant Candida albicans growth. Organism: C. albicans. Method: in vitro co-treatment with fluconazole and test compounds; readout: fluorescence correlated to cell proliferation/viability. Goal: validate hits that suppress resistant growth under fluconazole co-treatment, related to AID1979/AID2007."
+  },
+  {
+    "id": "Assay_5",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay assessing Rab9 promoter activation to identify activators. Biological target: Rab9 promoter. Organism not specified. Method: qHTS. Readout: promoter activation, specific signal type not specified. Goal: confirm and prioritize compounds that enhance Rab9 promoter activity."
+  },
+  {
+    "id": "Assay_50",
+    "summary": "Secondary confirmatory, fluorescence cell-based assay assessing cytotoxicity in mammalian fibroblasts. Organism: mammal (fibroblast cells). Method: fluorescence-based viability/toxicity readout in cultured cells. Goal: confirm toxic effects of compounds, aligned with PubChem depositor assays AID1979 and AID2007. Readout: decreased fluorescence indicating reduced viability."
+  },
+  {
+    "id": "Assay_51",
+    "summary": "Confirmatory dose-response assay evaluating uHTS-derived small-molecule agonists targeting the corticotropin-releasing factor (CRF) binding protein/CRF-R2 receptor complex. Multiple concentrations were tested to confirm agonist activity and potency. Organism, method, and readout type are not specified; goal is validation of hit efficacy."
+  },
+  {
+    "id": "Assay_52",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay using the MDA-N human breast cancer cell line. This in vitro cell-based assay quantifies tumor cell growth inhibition as the readout to assess antiproliferative/cytotoxic effects of test compounds, aiming to confirm activity against human breast cancer cells."
+  },
+  {
+    "id": "Assay_53",
+    "summary": "Phenotypic cell-based assay assessing growth inhibition in the NCI human tumor panel, focusing on the SN12C renal carcinoma cell line. Organism: Homo sapiens. Confirmatory format. Method: measure cell growth/viability relative to untreated controls; readout: percent growth inhibition. Goal: confirm compound-induced suppression of SN12C cell proliferation."
+  },
+  {
+    "id": "Assay_54",
+    "summary": "Confirmatory, cell-based growth inhibition assay on the human NCI-H23 non-small cell lung cancer line (Homo sapiens). Biological target: tumor cell proliferation. Method: cultured cells exposed to test compounds. Readout: growth/viability inhibition. Goal: confirm antiproliferative activity and potency in the NCI-H23 model."
+  },
+  {
+    "id": "Assay_55",
+    "summary": "Confirmatory NCI cell-based phenotypic assay assessing growth inhibition in the human ACHN renal carcinoma cell line. Organism: Homo sapiens. Method: culturing ACHN cells with test agents; readout: tumor cell growth inhibition. Goal: evaluate anti-proliferative activity and confirm inhibitory effects on renal tumor cell proliferation."
+  },
+  {
+    "id": "Assay_56",
+    "summary": "Confirmatory phenotypic assay evaluating growth inhibition in the human UO-31 renal carcinoma cell line (NCI). Organism: Homo sapiens. Assay type: tumor cell line proliferation inhibition. Method: in vitro cell-based measurement of growth. Readout: percent growth inhibition. Goal: confirm antiproliferative activity against UO-31. Biological target: not specified."
+  },
+  {
+    "id": "Assay_57",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay targeting proliferation of HOP-92 non-small cell lung carcinoma (human) cells. Method: cell growth/viability measurement; readout: percent growth inhibition. Goal: confirm active compounds that suppress HOP-92 cell growth within the NCI-60 screening framework."
+  },
+  {
+    "id": "Assay_58",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing antiproliferative effects on the HL-60(TB) human leukemia cell line. In vitro, cell-based method evaluates cell growth suppression; readout is percent inhibition/growth relative to controls; goal is confirm compound cytotoxicity/antitumor activity."
+  },
+  {
+    "id": "Assay_59",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing antiproliferative effects on DU-145 human prostate carcinoma cells; biological target: DU-145 cells; organism: Homo sapiens. Method: cell-based growth inhibition. Readout: percent growth inhibition. Goal: confirm cytotoxic/antitumor activity on this prostate cell line."
+  },
+  {
+    "id": "Assay_6",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) to discover enhancers of human SMN2 splice variant expression. Target: SMN2 splicing; method: qHTS; readout: increased SMN2 splice isoform levels; organism: Homo sapiens. No specific dosing, duration, or timepoints reported."
+  },
+  {
+    "id": "Assay_60",
+    "summary": "Confirmatory, cell-based growth inhibition assay targeting proliferation of the human SF-539 central nervous system tumor cell line (NCI program). Method: NCI human tumor cell line assay; readout: percent growth inhibition. Goal: confirm cytotoxic/antiproliferative activity against human CNS cancer cells."
+  },
+  {
+    "id": "Assay_61",
+    "summary": "Confirmatory NCI cell-based growth inhibition assay assessing anticancer activity against SK-MEL-5 human melanoma cells (Homo sapiens). Method: tumor cell proliferation/viability measurement with growth inhibition readout. Goal: quantify compound-induced suppression of cell growth in the SK-MEL-5 line."
+  },
+  {
+    "id": "Assay_62",
+    "summary": "Confirmatory, cell-based NCI human tumor cell line growth inhibition assay assessing anticancer activity in MALME-3M human melanoma cells (Homo sapiens). Method: compound exposure to cultured cells; readout: growth inhibition relative to controls (percent viability/proliferation). Goal: confirm inhibitory effects on melanoma cell proliferation in the NCI-60 context."
+  },
+  {
+    "id": "Assay_63",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay evaluating antiproliferative effects on the human K-562 leukemia cell line in vitro. Biological target: K-562 leukemia cells. Assay type: cell-based growth inhibition; organism: Homo sapiens. Method: culture-based measurement of cell growth. Readout: growth inhibition. Goal: confirm cytotoxic activity against K-562."
+  },
+  {
+    "id": "Assay_64",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing antiproliferative effects on the A498 renal carcinoma cell line (Homo sapiens). In vitro measurement of cell growth inhibition as the readout; method evaluates compound-induced suppression of cell proliferation, goal is confirming efficacy against A498 tumor cell growth."
+  },
+  {
+    "id": "Assay_65",
+    "summary": "Confirmatory in vitro phenotypic assay assessing anti-proliferative/cytotoxic effects on human OVCAR-3 ovarian carcinoma cells using the NCI human tumor cell line growth inhibition protocol. Organism: Homo sapiens. Readout: percent growth inhibition/viability relative to controls. Goal: confirm compounds that inhibit tumor cell growth."
+  },
+  {
+    "id": "Assay_66",
+    "summary": "Confirmatory, cell-based NCI human tumor cell line growth inhibition assay in Homo sapiens MOLT-4 leukemia cells, assessing antiproliferative effects of test compounds. Method monitors cell growth suppression with readouts as percent growth inhibition/GI metrics. Goal is to confirm cytotoxic or cytostatic activity against this human tumor line."
+  },
+  {
+    "id": "Assay_67",
+    "summary": "Phenotypic cell-based growth inhibition assay in human HOP-62 non-small cell lung cancer line. Confirmatory screen assessing compound-induced anti-proliferative effects. Method: cell viability/proliferation measurement; readout: percent growth inhibition. Goal: evaluate cytotoxicity and growth suppression in human tumor cells."
+  },
+  {
+    "id": "Assay_68",
+    "summary": "Confirmatory, cell-based growth inhibition assay in human NCI/ADR-RES breast tumor cell line. Organism: Homo sapiens. Method: phenotypic proliferation/viability measurement in cultured cells. Readout: percent growth inhibition relative to control. Goal: confirm antitumor/cytotoxic activity of compounds against this breast cancer cell model."
+  },
+  {
+    "id": "Assay_69",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing compounds against U251 central nervous system cells (Homo sapiens) in vitro. Method: cell culture; readout: percent growth inhibition/viability. Goal: confirm cytotoxic/antiproliferative activity in a CNS tumor model."
+  },
+  {
+    "id": "Assay_7",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting the thyroid stimulating hormone receptor (TSHR), designed to identify and validate agonists. Organism not specified. Method: qHTS across concentration ranges. Readout: quantitative receptor activation response. Goal: confirm agonist activity of tested compounds."
+  },
+  {
+    "id": "Assay_70",
+    "summary": "PUBCHEM_BIOASSAY: NCI human tumor cell line growth inhibition assay for human OVCAR-8 ovarian cells. Confirmatory, cell-based assay; organism: Homo sapiens. Method: growth inhibition measurement; readout: percent proliferation inhibition. Goal: confirm compound antiproliferative activity against the OVCAR-8 cell line."
+  },
+  {
+    "id": "Assay_71",
+    "summary": "Confirmatory in vitro NCI human tumor cell line growth inhibition assay on the human SNB-19 central nervous system tumor cell line. Organism: Homo sapiens. Assay type: confirmatory antiproliferative screen. Method: cell culture exposure to test compounds. Readout: inhibition of cell growth versus control. Goal: confirm compound-induced cytostatic/cytotoxic effects."
+  },
+  {
+    "id": "Assay_72",
+    "summary": "Human small cell lung cancer DMS 273 cell line growth inhibition assay from NCI (PubChem confirmatory). Cell-based antiproliferation/viability readout to assess compound-induced cytotoxicity. Organism: Homo sapiens. Assay type: growth inhibition screen. Goal: confirm inhibitory potency/selectivity against DMS 273 tumor cells."
+  },
+  {
+    "id": "Assay_73",
+    "summary": "Human breast cancer cell line MDA-MB-231/ATCC was used in the NCI human tumor cell line growth inhibition assay (confirmatory) to evaluate compound-induced proliferation inhibition. Organism: Homo sapiens. In vitro cell-based assay; readout: percent growth inhibition/viability. Goal: confirm cytostatic/cytotoxic activity against this tumor line."
+  },
+  {
+    "id": "Assay_74",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing antiproliferative effects on the SR human leukemia cell line. Organism: Homo sapiens. Method: cell-based viability/growth measurement. Readout: percent growth inhibition. Goal: confirm compound cytotoxic/antiproliferative activity against SR leukemia cells in PUBCHEM_BIOASSAY."
+  },
+  {
+    "id": "Assay_75",
+    "summary": "Human TK-10 renal carcinoma cell line growth inhibition assay (NCI, confirmatory). Cell-based in vitro assay evaluates test compound effects on proliferation of human tumor cells, with readout as growth inhibition. Goal: confirmatory assessment of anticancer activity against TK-10. Organism: Homo sapiens."
+  },
+  {
+    "id": "Assay_76",
+    "summary": "Confirmatory cell-based assay evaluating growth inhibition in human SW-620 colon carcinoma cells. Organism: Homo sapiens. Assay type: NCI human tumor cell line growth inhibition. Method: in vitro cell culture. Readout: percent growth inhibition of SW-620 cells. Goal: confirm anti-proliferative activity of tested agents."
+  },
+  {
+    "id": "Assay_77",
+    "summary": "Confirmatory PubChem BioAssay evaluating growth inhibition in human NCI-H522 non-small cell lung cancer cells (Homo sapiens). In vitro cell-based assay; readout is tumor cell proliferation/growth suppression. Goal: confirm compound cytostatic/cytotoxic activity against the NCI-H522 line; biological target: NCI-H522 cells; assay class: confirmatory."
+  },
+  {
+    "id": "Assay_78",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay targeting the KM12 human colon carcinoma cell line. Organism: Homo sapiens. Method: cell-based measurement of tumor cell growth suppression; readout: percent growth inhibition/viability. Goal: confirm compound antiproliferative or cytotoxic effects against KM12."
+  },
+  {
+    "id": "Assay_79",
+    "summary": "Confirmatory, cell-based phenotypic assay assessing growth inhibition in the human M14 melanoma cell line (Homo sapiens), from PubChem/NCI. Biological target: M14 cell growth/proliferation. Assay type: tumor cell line growth inhibition. Method: measure percent growth inhibition/viability. Goal: confirm compound antiproliferative/cytotoxic activity."
+  },
+  {
+    "id": "Assay_8",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) assay targeting Tyrosyl-DNA Phosphodiesterase (TDP1) to identify small-molecule inhibitors. Organism not specified. Method: biochemical enzyme inhibition qHTS; readout type not stated. Goal: confirm inhibitory activity across dose-response concentrations. Specific durations or dosage/timepoints not reported."
+  },
+  {
+    "id": "Assay_80",
+    "summary": "Phenotypic cell-based confirmatory assay assessing antiproliferative activity against the human XF 498 central nervous system tumor cell line (NCI-60). Organism: Homo sapiens. In vitro growth inhibition measured as percent inhibition of cell proliferation/viability; goal is to confirm cytotoxic efficacy of compounds on this CNS-derived line."
+  },
+  {
+    "id": "Assay_81",
+    "summary": "Confirmatory in vitro growth inhibition assay in human NCI-H322M non-small cell lung cancer cell line (Homo sapiens). Assessed compound-induced antiproliferative effects, with readout as cell growth inhibition/viability. Goal: confirm cytotoxic/antitumor activity against NCI-H322M, derived from NCI human tumor cell line screening."
+  },
+  {
+    "id": "Assay_82",
+    "summary": "Human RPMI-8226 leukemia cell line growth inhibition assay (confirmatory) from NCI. Biological target: RPMI-8226 human leukemia cell growth. Cell-based method assessing compound-induced proliferation suppression. Readout: percent growth inhibition of RPMI-8226. Goal: confirm cytotoxic/antiproliferative activity in a human tumor cell line. Organism: Homo sapiens."
+  },
+  {
+    "id": "Assay_83",
+    "summary": "Confirmatory, cell-based phenotypic assay assessing growth inhibition of human OVCAR-4 ovarian carcinoma cells (Homo sapiens) in vitro. Compounds are evaluated for anti-proliferative activity, with readout as percent growth inhibition/cell viability relative to controls, aiming to confirm cytotoxic or cytostatic effects against this NCI tumor cell line."
+  },
+  {
+    "id": "Assay_84",
+    "summary": "Confirmatory phenotypic cell-based assay assessing growth inhibition in the human LOX IMVI melanoma cell line (Homo sapiens). Assay type: NCI human tumor cell line growth inhibition. Method/readout: cell viability/growth inhibition measurement. Goal: confirm compound antiproliferative activity against melanoma cells as part of PubChem BioAssay/NCI screening."
+  },
+  {
+    "id": "Assay_85",
+    "summary": "Confirmatory, cell-based NCI growth inhibition assay on human BT-549 breast tumor cell line (Homo sapiens). Method: NCI tumor cell line protocol; readout: growth inhibition/antiproliferative effect, reported as percent inhibition. Goal: assess cytotoxic or antiproliferative activity of test compounds against BT-549 cells."
+  },
+  {
+    "id": "Assay_86",
+    "summary": "Confirmatory cell-based assay assessing compound-induced growth inhibition in the human SK-MEL-2 melanoma cell line (Homo sapiens) using the NCI human tumor cell line growth inhibition protocol. Readout quantifies cell proliferation/growth suppression (e.g., percent inhibition). Goal: validate anticancer activity against SK-MEL-2 melanoma."
+  },
+  {
+    "id": "Assay_87",
+    "summary": "Confirmatory in vitro, cell-based growth inhibition assay on human A549/ATCC non-small cell lung cancer line (Homo sapiens). Compounds tested for anti-proliferative/cytotoxic effects; readout is percent growth inhibition versus controls. Goal is to confirm activity against tumor cell growth within the NCI human tumor cell line panel."
+  },
+  {
+    "id": "Assay_88",
+    "summary": "Human cell-based confirmatory assay evaluating growth inhibition of the HCC-2998 colon carcinoma line. Organism: Homo sapiens. Assesses antitumor activity by measuring cell growth/viability inhibition as the readout. Goal: confirm cytostatic/cytotoxic effects of compounds on HCC-2998 cells in a standardized NCI growth inhibition format."
+  },
+  {
+    "id": "Assay_89",
+    "summary": "Confirmatory cell-based assay evaluating growth inhibition in human SNB-75 central nervous system tumor cells (Homo sapiens) from the NCI-60 panel. Method: phenotypic viability/growth inhibition measurement; readout: percent growth inhibition. Goal: confirm anti-tumor cytostatic/cytotoxic activity of test compounds in this cell line."
+  },
+  {
+    "id": "Assay_9",
+    "summary": "Confirmatory quantitative high-throughput screening (qHTS) targeting tau protein fibril formation, using Thioflavin T binding fluorescence as the readout to detect amyloid fibrils. Goal: identify small-molecule inhibitors of tau aggregation. Assay monitors decreased Thioflavin T signal indicative of reduced fibrillation. Related PubChem assay: 596."
+  },
+  {
+    "id": "Assay_90",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay on the HCT-15 colon carcinoma cell line (Homo sapiens). Assay type: cell-based antiproliferative/cytotoxicity screen using the NCI method. Readout: growth inhibition relative to control. Goal: confirm inhibitory activity of test compounds against human colon cancer cells; specific doses/timepoints not provided."
+  },
+  {
+    "id": "Assay_91",
+    "summary": "Biological target: proliferation of HCT-116 human colon carcinoma cells. Confirmatory, cell-based NCI growth inhibition assay in vitro. Organism: Homo sapiens. Method: cell growth/viability measurement. Readout: percent growth inhibition versus controls. Goal: confirm compound-induced antiproliferative/cytotoxic activity in the HCT-116 cell line."
+  },
+  {
+    "id": "Assay_92",
+    "summary": "Confirmatory cell-based growth inhibition assay (PubChem BioAssay) targeting SF-268 human central nervous system tumor cells (Homo sapiens). NCI tumor cell line protocol assesses antiproliferative activity; readout is percent growth inhibition or viability reduction. Goal: confirm cytotoxic/antineoplastic effects on SF-268 under standardized growth inhibition conditions."
+  },
+  {
+    "id": "Assay_93",
+    "summary": "Confirmatory cell-based assay assessing growth inhibition in human EKVX non-small cell lung cancer line (NCI tumor panel). Organism: Homo sapiens. Method: cell culture viability/growth suppression measurement. Readout: percent growth inhibition across tested conditions. Goal: confirm anti-proliferative activity of compounds against EKVX NSCLC cells."
+  },
+  {
+    "id": "Assay_94",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay assessing MCF7 breast cancer cells (Homo sapiens). Method measures cell proliferation/viability to quantify growth inhibition as readout. Goal is to evaluate compounds’ antiproliferative/cytotoxic activity against MCF7. No specific dosing, duration, or timepoints provided."
+  },
+  {
+    "id": "Assay_95",
+    "summary": "Confirmatory cell-based growth inhibition assay on the human PC-3 prostate cancer cell line (Homo sapiens) from the NCI panel. Compounds are tested in vitro to assess antiproliferative/cytotoxic effects; readout is growth inhibition (e.g., percent inhibition). Goal: confirm activity against PC-3 tumor cells."
+  },
+  {
+    "id": "Assay_96",
+    "summary": "In vitro NCI human tumor cell line growth inhibition assay on Homo sapiens DMS 114 small cell lung cancer cells, assessing antiproliferative effects of compounds. Cell-based confirmatory assay measuring growth/viability readouts (percent growth inhibition) to determine cytotoxic or cytostatic activity. Goal: confirmatory profiling within PubChem BioAssay."
+  },
+  {
+    "id": "Assay_97",
+    "summary": "Confirmatory, cell-based growth inhibition assay in the human LXFL 529 non-small cell lung cancer line (Homo sapiens), assessing compound-induced suppression of tumor cell proliferation. Readout: cell growth/viability inhibition. Goal: confirm antiproliferative activity against this NSCLC line within the NCI human tumor cell panel."
+  },
+  {
+    "id": "Assay_98",
+    "summary": "Confirmatory NCI human tumor cell line growth inhibition assay evaluating antiproliferative effects on the SK-OV-3 ovarian carcinoma cell line (Homo sapiens). Assay type: cell-based viability/proliferation inhibition. Method: NCI screen growth inhibition protocol. Readout: percent growth inhibition. Goal: confirm activity against SK-OV-3."
+  },
+  {
+    "id": "Assay_99",
+    "summary": "NCI human tumor cell line growth inhibition confirmatory assay assessing anti-proliferative activity in T-47D human breast cancer cells. Organism: Homo sapiens. Method: cell-based viability/growth inhibition measurement. Readout: percent growth inhibition. Goal: validate compound efficacy by confirming inhibition of T-47D cell growth."
+  }
+]
