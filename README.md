@@ -32,6 +32,8 @@ src/
   downstream/
     train.py          # assay-query downstream training/evaluation
     OpenPheno_setting2.sh
+  cellcount/
+    *.py              # Cell count baseline scripts and released results
   results/
     *.csv             # released prediction logits/results
     calculate_metrics.py
@@ -172,6 +174,16 @@ Metric conventions:
 - Other settings: direct mean across assay-level metrics.
 - F1 is computed by selecting the top-scoring fraction according to the hard-coded training positive rate used in the paper.
 - EF@5% is computed from the top 5% ranked compounds for each assay.
+
+## Cell Count Baselines
+
+Cell count baseline scripts and released result files are provided in:
+
+```bash
+src/cellcount
+```
+
+The Broad-270 closed-set and Setting 2 few-shot controls use per-assay logistic regression on `Cells_Number_Object_Number`. The Setting 2 zero-shot control uses nearest-assay threshold transfer. See `src/cellcount/README.md` for the script-to-result mapping.
 
 ## Data Notes
 

@@ -1,0 +1,10 @@
+{
+  "fold_rows":572.0,
+  "n_assays":205.0,
+  "mean_auroc":0.7010185918,
+  "std_auroc":0.2213254797,
+  "auroc_ge_0.9":64.0,
+  "auroc_ge_0.8":74.0,
+  "auroc_ge_0.7":103.0,
+  "auroc_ge_0.5":169.0
+}

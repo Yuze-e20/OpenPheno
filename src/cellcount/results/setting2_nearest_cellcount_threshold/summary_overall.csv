@@ -1,0 +1,2 @@
+n_assays,n_valid_assays,n_fallback_assays,mean_auroc_valid,median_auroc_valid,mean_auroc,median_auroc,auroc_gt_0.9,auroc_gt_0.7,auroc_gt_0.5,fallback_auroc
+54,54,0,0.5773529032444069,0.5434301835642174,0.5773529032444069,0.5434301835642174,2,15,41,0.5

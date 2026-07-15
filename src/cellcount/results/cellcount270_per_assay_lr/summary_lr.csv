@@ -1,0 +1,2 @@
+model,feature,n_assays,n_assays_with_valid_fold,n_valid_fold_aurocs,mean_observed_assay_median_auroc,mean_270_assay_median_auroc_fill_missing_0.5,median_count_gt_0.9,median_count_gt_0.7,median_count_gt_0.5,avg_fold_count_gt_0.9,avg_fold_count_gt_0.7,avg_fold_count_gt_0.5,fallback_auroc
+per_assay_logistic_regression,Cells_Number_Object_Number,270,230,972,0.6191995910465691,0.6015403923730034,16,72,181,22.6,59.6,139.4,0.5

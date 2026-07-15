@@ -1,0 +1,2 @@
+fold_rows,n_assays,mean_auroc,std_auroc,auroc_ge_0.9,auroc_ge_0.8,auroc_ge_0.7,auroc_ge_0.5
+572,205,0.7010185917785888,0.22132547970283223,64,74,103,169

@@ -1,0 +1,16 @@
+{
+  "model": "per_assay_logistic_regression",
+  "feature": "Cells_Number_Object_Number",
+  "n_assays": 270,
+  "n_assays_with_valid_fold": 230,
+  "n_valid_fold_aurocs": 972,
+  "mean_observed_assay_median_auroc": 0.6191995910465691,
+  "mean_270_assay_median_auroc_fill_missing_0.5": 0.6015403923730034,
+  "median_count_gt_0.9": 16,
+  "median_count_gt_0.7": 72,
+  "median_count_gt_0.5": 181,
+  "avg_fold_count_gt_0.9": 22.6,
+  "avg_fold_count_gt_0.7": 59.6,
+  "avg_fold_count_gt_0.5": 139.4,
+  "fallback_auroc": 0.5
+}
