@@ -67,6 +67,8 @@ PETREL_CONF="/path/to/petreloss.conf"
 
 The training scripts assume that image CSVs contain five channel paths (`ch1_path` to `ch5_path`) and that those paths can be opened by the configured image backend.
 
+We have released the pretrained checkpoints in the ModelScope repository [`https://www.modelscope.cn/models/YuzeSun/OpenPheno`](https://www.modelscope.cn/models/YuzeSun/OpenPheno). The raw Cell Painting data can be downloaded from [Cell Painting Gallery](https://github.com/broadinstitute/2015_Bray_GigaScience-data) and we will also release it soon.
+
 ## Pretrained Checkpoint
 
 For downstream zero-shot evaluation, download the released OpenPheno checkpoint from ModelScope:
